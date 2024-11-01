@@ -1,0 +1,39 @@
+[17:39:12] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[17:39:12] [Server thread/INFO]: Loading properties
+[17:39:12] [Server thread/INFO]: Default game type: SURVIVAL
+[17:39:13] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[17:39:13] [Server thread/INFO]: Debug logging is disabled
+[17:39:13] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[17:39:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[17:39:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:39:13] [Server thread/INFO]: Data value allowed items: 
+[17:39:13] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
+
+[17:39:13] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+
+[17:39:13] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
+
+[17:39:13] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+
+[17:39:13] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+[17:39:13] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
+
+[17:39:13] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
+
+[17:39:13] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
+
+[17:39:13] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+
+[17:39:13] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[17:39:13] [Server thread/INFO]: Generating keypair
+[17:39:13] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[17:39:13] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[17:39:13] [Server thread/INFO]: Using default channel type
+[17:39:13] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[17:39:13] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use
+[17:39:13] [Server thread/WARN]: Perhaps a server is already running on that port?
+[17:39:13] [Server thread/INFO]: Stopping server
+[17:39:13] [Server thread/INFO]: Saving players

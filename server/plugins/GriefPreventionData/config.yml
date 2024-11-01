@@ -1,0 +1,103 @@
+GriefPrevention:
+  SeaLevelOverrides:
+    world: -1
+    world_nether: -1
+    world_the_end: -1
+  Claims:
+    Mode:
+      world_nether: Disabled
+      world: Survival
+      world_the_end: Disabled
+    PreventTheft: true
+    ProtectCreatures: true
+    PreventButtonsSwitches: true
+    LockWoodenDoors: true
+    LockTrapDoors: true
+    LockFenceGates: true
+    EnderPearlsRequireAccessTrust: true
+    ProtectFires: true
+    ProtectHorses: true
+    InitialBlocks: 5000
+    BlocksAccruedPerHour: 1000
+    MaxAccruedBlocks: 20000
+    AbandonReturnRatio: 1.0
+    AutomaticNewPlayerClaimsRadius: 4
+    ExtendIntoGroundDistance: 5
+    CreationRequiresPermission: false
+    MinimumSize: 10
+    MaximumDepth: 0
+    InvestigationTool: STICK
+    ModificationTool: WOODEN_SPADE
+    Expiration:
+      ChestClaimDays: 14
+      UnusedClaimDays: 14
+      AllClaimDays: 0
+      AutomaticNatureRestoration:
+        SurvivalWorlds: false
+  Spam:
+    Enabled: false
+    LoginCooldownSeconds: 60
+    MonitorSlashCommands: /me;/tell;/global;/local;/w;/msg;/r;/t
+    WarningMessage: Please reduce your noise level.  Spammers will be banned.
+    BanOffenders: true
+    BanMessage: Banned for spam.
+    AllowedIpAddresses: 1.2.3.4; 5.6.7.8
+    DeathMessageCooldownSeconds: 60
+  PvP:
+    Worlds:
+    - world
+    - world_nether
+    - world_the_end
+    ProtectFreshSpawns: true
+    PunishLogout: true
+    CombatTimeoutSeconds: 15
+    AllowCombatItemDrop: false
+    BlockedSlashCommands: /home;/vanish;/spawn;/tpa
+    ProtectPlayersInLandClaims:
+      PlayerOwnedClaims: true
+      AdministrativeClaims: true
+      AdministrativeSubdivisions: true
+  Economy:
+    ClaimBlocksPurchaseCost: 0.0
+    ClaimBlocksSellValue: 0.0
+  ProtectItemsDroppedOnDeath:
+    PvPWorlds: true
+    NonPvPWorlds: true
+  BlockSurfaceCreeperExplosions: true
+  BlockSurfaceOtherExplosions: true
+  LimitSkyTrees: true
+  LimitTreeGrowth: false
+  LimitPistonsToLandClaims: true
+  FireSpreads: false
+  FireDestroys: false
+  EavesdropEnabled: true
+  WhisperCommands: /tell;/pm;/r;/w;/t;/msg
+  SmartBan: true
+  Siege:
+    Worlds: []
+    BreakableBlocks:
+    - DIRT
+    - GRASS
+    - LONG_GRASS
+    - COBBLESTONE
+    - GRAVEL
+    - SAND
+    - GLASS
+    - THIN_GLASS
+    - WOOD
+    - WOOL
+    - SNOW
+  EndermenMoveBlocks: false
+  SilverfishBreakBlocks: false
+  CreaturesTrampleCrops: false
+  HardModeZombiesBreakDoors: false
+  Database:
+    URL: ''
+    UserName: ''
+    Password: ''
+  Mods:
+    BlockIdsRequiringAccessTrust: []
+    BlockIdsRequiringContainerTrust:
+    - 99999:*:Example - ID 99999, all data values.
+    BlockIdsExplodable: []
+    PlayersIgnoringAllClaims: []
