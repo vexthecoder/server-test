@@ -27,7 +27,7 @@ GriefPrevention:
     MinimumSize: 10
     MaximumDepth: 0
     InvestigationTool: STICK
-    ModificationTool: WOODEN_SPADE
+    ModificationTool: GOLD_SPADE
     Expiration:
       ChestClaimDays: 14
       UnusedClaimDays: 14

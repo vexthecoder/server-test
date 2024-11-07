@@ -13,17 +13,17 @@ permissions:
   - bungeecord.command.ip
   - bungeecord.command.reload
   - bungeecord.command.kick
-timeout: 30000
+timeout: 999999999
 log_commands: false
 online_mode: false
 servers:
   lobby:
-    motd: '&1Just another Waterfall - Forced Host'
+    motd: skibidi server
     address: localhost:25565
     restricted: false
 listeners:
 - query_port: 25577
-  motd: '&1Another Bungee server'
+  motd: skibidi server
   tab_list: GLOBAL_PING
   query_enabled: false
   proxy_protocol: false
