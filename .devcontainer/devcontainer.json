@@ -1,0 +1,4 @@
+{
+  "postStartCommand": "nohup bash -c 'cd server && sudo java -jar server.jar' & nohup bash -c 'cd bungee && sudo java -jar bungee.jar' &",
+  "forwardPorts": [8081]
+}
