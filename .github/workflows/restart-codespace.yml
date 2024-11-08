@@ -2,7 +2,7 @@ name: Keep Codespace Active and Start Minecraft Server
 
 on:
   schedule:
-    - cron: "0 */3 * * *"  # Every 3 hours
+    - cron: "0 */4 * * *"  # Every 3 hours
 
 jobs:
   keep_alive_and_start:
@@ -13,7 +13,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          codespace_name="foul-hex-wpjp7x9x6gvf59pv"  # Your Codespace name
+          codespace_name="foul-hex"  # Your Codespace name
           curl -X POST \
             -H "Authorization: token $GH_TOKEN" \
             -H "Accept: application/vnd.github.v3+json" \
