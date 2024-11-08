@@ -2,7 +2,7 @@ name: Keep Codespace Active and Start Minecraft Server
 
 on:
   schedule:
-    - cron: "0 */4 * * *"  # Every 3 hours
+    - cron: "0 */3 * * *"  # Every 3 hours
 
 jobs:
   keep_alive_and_start:
@@ -13,18 +13,24 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          codespace_name="foul-hex"  # Your Codespace name
+          codespace_name="foul-hex-wpjp7x9x6gvf59pv"
           curl -X POST \
             -H "Authorization: token $GH_TOKEN" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/user/codespaces/$codespace_name/start
 
-      - name: Run Minecraft Server and BungeeCord in Background
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Start Minecraft Server and BungeeCord in Screen Sessions
         run: |
-          # Start the Minecraft server
-          nohup bash -c "cd server && sudo java -jar server.jar" &
+          # Install screen if not already installed
+          sudo apt-get update && sudo apt-get install -y screen
 
-          # Start BungeeCord
-          nohup bash -c "cd bungee && sudo java -jar bungee.jar" &
+          # Start Minecraft server in a screen session named "minecraft"
+          screen -dmS minecraft bash -c "cd server && sudo java -jar server.jar"
+
+          # Start BungeeCord in a screen session named "bungee"
+          screen -dmS bungee bash -c "cd bungee && sudo java -jar bungee.jar"
+
+      - name: Set up cron job for save-all
+        run: |
+          # Add a cron job to run the save-all script every 10 minutes
+          (crontab -l ; echo "*/10 * * * * $(pwd)/save-all") | crontab -
