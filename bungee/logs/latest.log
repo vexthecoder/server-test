@@ -70,3 +70,6 @@
 [20:02:17] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:50528]: Logged in as 'VoidTD1'
 [20:02:17] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:50528|VoidTD1] -> UpstreamBridge has connected
 [20:02:17] [Netty Worker IO Thread #4/INFO]: [VoidTD1|/[0:0:0:0:0:0:0:1%0]:50528] <-> ServerConnector [lobby] has connected
+[20:02:50] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:50528|VoidTD1] -> UpstreamBridge has disconnected
+[20:02:50] [Netty Worker IO Thread #4/INFO]: [VoidTD1] disconnected with: Proxy lost connection to server.
+[20:02:50] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:50528|VoidTD1] <-> DownstreamBridge <-> [lobby] has disconnected
