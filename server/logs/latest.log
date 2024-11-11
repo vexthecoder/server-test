@@ -309,3 +309,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:24:47] [Server thread/INFO]: [vexthecoder: Given [Oak Fence Gate] * 12 to vexthecoder]
 [20:25:43] [Server thread/INFO]: vexthecoder issued server command: /gamemode c
 [20:25:43] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
+[20:26:02] [Server thread/INFO]: vexthecoder issued server command: /
