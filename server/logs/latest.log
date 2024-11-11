@@ -295,3 +295,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:23:22] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
 [20:23:44] [Server thread/INFO]: vexthecoder issued server command: /gamemode s
 [20:23:44] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
+[20:24:06] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder oak_fence 8
+[20:24:06] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:oak_fence]
