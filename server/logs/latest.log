@@ -311,3 +311,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:25:43] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
 [20:26:02] [Server thread/INFO]: vexthecoder issued server command: /
 [20:26:03] [Server thread/INFO]: vexthecoder issued server command: //wand
+[20:26:16] [Server thread/INFO]: vexthecoder issued server command: //replace
