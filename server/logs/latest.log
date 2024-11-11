@@ -318,3 +318,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:26:48] [Server thread/INFO]: [vexthecoder: Given [Spruce Fence Gate] * 6 to vexthecoder]
 [20:27:00] [Server thread/INFO]: vexthecoder issued server command: /gamemode s
 [20:27:00] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
+[20:27:55] [Server thread/INFO]: vexthecoder issued server command: /save-all
