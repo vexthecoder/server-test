@@ -269,3 +269,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:48:36] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:60570] logged in with entity id 795 at ([world]-4109.715401249884, 70.0, -1735.6992470615353)
 [19:50:41] [Server thread/INFO]: vexthecoder issued server command: /time set day
 [19:50:41] [Server thread/INFO]: [vexthecoder: Set the time to 1000]
+[20:02:08] [Server thread/INFO]: vexthecoder lost connection: Disconnected
+[20:02:08] [Server thread/INFO]: vexthecoder left the game.
