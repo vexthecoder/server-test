@@ -314,3 +314,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:26:16] [Server thread/INFO]: vexthecoder issued server command: //replace
 [20:26:27] [Server thread/INFO]: vexthecoder issued server command: //replace fence spruce_fence
 [20:26:35] [Server thread/INFO]: vexthecoder issued server command: //replace fence_gate spruce_fence_gate
+[20:26:48] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder spruce_fence_gate 6
+[20:26:48] [Server thread/INFO]: [vexthecoder: Given [Spruce Fence Gate] * 6 to vexthecoder]
