@@ -305,3 +305,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:24:32] [Server thread/INFO]: [vexthecoder: Given [Oak Fence] * 20 to vexthecoder]
 [20:24:42] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder gate 12
 [20:24:42] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:gate]
+[20:24:47] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder fence_gate 12
+[20:24:47] [Server thread/INFO]: [vexthecoder: Given [Oak Fence Gate] * 12 to vexthecoder]
