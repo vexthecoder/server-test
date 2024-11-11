@@ -271,3 +271,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:50:41] [Server thread/INFO]: [vexthecoder: Set the time to 1000]
 [20:02:08] [Server thread/INFO]: vexthecoder lost connection: Disconnected
 [20:02:08] [Server thread/INFO]: vexthecoder left the game.
+[20:02:17] [Thread-10/INFO]: UUID of player VoidTD1 is a1202c6c-cc39-3ce9-8cee-01fb82309203
