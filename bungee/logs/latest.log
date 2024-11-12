@@ -44,3 +44,4 @@
 [16:14:13] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:de8345a:579 by WaterfallMC
 [16:14:13] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
 [16:14:13] [Netty Boss IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
+[16:14:13] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
