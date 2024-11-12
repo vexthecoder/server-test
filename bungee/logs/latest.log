@@ -16,3 +16,20 @@
 [16:14:12] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:de8345a:579 by WaterfallMC
 [16:14:12] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:de8345a:579 by WaterfallMC
 [16:14:12] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:de8345a:579 by WaterfallMC
+[16:14:12] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[16:14:12] [main/WARN]: :>  
+[16:14:12] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
+[16:14:12] [main/WARN]: :>  
+[16:14:12] [main/WARN]: :>  This plugin wasn't tested to be 'working'
+[16:14:12] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
+[16:14:12] [main/WARN]: :>  apart from the versions listed below:
+[16:14:12] [main/WARN]: :>  
+[16:14:12] [main/WARN]: :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:acb85e3:1871
+[16:14:12] [main/WARN]: :>  - Waterfall: 1.21-R0.1-SNAPSHOT:de8345a:579
+[16:14:12] [main/WARN]: :>  
+[16:14:12] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
+[16:14:12] [main/WARN]: :>  
+[16:14:12] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
+[16:14:12] [main/WARN]: :>  
+[16:14:12] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[16:14:12] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: lax1dude
