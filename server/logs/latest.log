@@ -135,3 +135,37 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [16:13:53] [Server thread/INFO]: World async lighting: false
 [16:13:53] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
 [16:13:53] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[16:13:53] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[16:13:53] [Server thread/INFO]: Mob Spawn Range: 4
+[16:13:53] [Server thread/INFO]: Anti X-Ray: true
+[16:13:53] [Server thread/INFO]: 	Engine Mode: 1
+[16:13:53] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[16:13:53] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[16:13:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:13:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:13:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:13:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:13:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:13:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:13:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:13:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:13:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:13:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:13:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:13:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:13:53] [Server thread/INFO]: Random Lighting Updates: false
+[16:13:53] [Server thread/INFO]: Structure Info Saving: true
+[16:13:53] [Server thread/INFO]: Sending up to 10 chunks per packet
+[16:13:53] [Server thread/INFO]: Max Entity Collisions: 8
+[16:13:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:13:53] [Server thread/INFO]: Max TNT Explosions: 100
+[16:13:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:13:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:13:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:13:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:13:53] [Server thread/INFO]: View Distance: 4
+[16:13:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:13:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:13:53] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[16:13:53] [Server thread/INFO]: Clear tick list: false
+[16:13:53] [Server thread/INFO]: Experience Merge Radius: 3.0
