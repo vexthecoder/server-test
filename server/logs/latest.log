@@ -30,3 +30,5 @@
 
 [16:13:52] [Server thread/INFO]: Generating keypair
 [16:13:53] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[16:13:53] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[16:13:53] [Server thread/INFO]: Using default channel type
