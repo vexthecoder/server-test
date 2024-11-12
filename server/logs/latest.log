@@ -28,3 +28,5 @@
 
 [18:39:06] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
+[18:39:06] [Server thread/INFO]: Generating keypair
+[18:39:06] [Server thread/INFO]: Starting Minecraft server on localhost:25565
