@@ -273,3 +273,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:47:11] [Server thread/INFO]: [vexthecoder: Given [Cobblestone] * 64 to vexthecoder]
 [18:47:12] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder cobblestone 64
 [18:47:12] [Server thread/INFO]: [vexthecoder: Given [Cobblestone] * 64 to vexthecoder]
+[18:47:14] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder cobblestone 64
+[18:47:14] [Server thread/INFO]: [vexthecoder: Given [Cobblestone] * 64 to vexthecoder]
