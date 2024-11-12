@@ -250,3 +250,11 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:39:09] [Server thread/INFO]: [PvPToggle] Enabling PvPToggle v1.5.8
 [18:39:09] [Server thread/ERROR]: [PvPToggle] Plugin PvPToggle v1.5.8 has failed to register events for class com.github.aasmus.pvptoggle.listeners.PvP because org/bukkit/event/entity/AreaEffectCloudApplyEvent does not exist.
 [18:39:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:39:09] [Server thread/INFO]: Done (2.925s)! For help, type "help" or "?"
+[18:39:09] [Server thread/INFO]: Timings Reset
+[18:39:10] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[21m[SimpleTpa] There is a new update available.[m
+
+[18:39:10] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] There is a new update available:[m
+
+[18:39:10] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
+
