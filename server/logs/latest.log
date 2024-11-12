@@ -298,3 +298,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:53:21] [Server thread/INFO]: VoidTD1[/[0:0:0:0:0:0:0:1]:47568] logged in with entity id 1278 at ([world]-4156.168127310146, 70.0, -1703.250774183413)
 [18:53:29] [Server thread/INFO]: vexthecoder issued server command: /gamemode survival
 [18:53:29] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
+[18:55:15] [Thread-12/INFO]: UUID of player Kumbadia is c98fef90-09c8-3851-9029-391bbe93c043
