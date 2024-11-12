@@ -7,3 +7,26 @@
 [19:42:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
 
 [19:42:36] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:42:36] [Server thread/INFO]: Data value allowed items: 
+[19:42:36] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
+
+[19:42:36] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+
+[19:42:36] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
+
+[19:42:36] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+
+[19:42:36] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+[19:42:36] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
+
+[19:42:36] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
+
+[19:42:36] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
+
+[19:42:36] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+
+[19:42:36] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[19:42:36] [Server thread/INFO]: Generating keypair
+[19:42:36] [Server thread/INFO]: Starting Minecraft server on localhost:25565
