@@ -231,3 +231,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [16:13:53] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
 [16:13:53] [Server thread/INFO]: Preparing start region for level 0 (Seed: 795042868806082513)
 [16:13:54] [Server thread/INFO]: Preparing start region for level 1 (Seed: 795042868806082513)
+[16:13:55] [Server thread/INFO]: Preparing start region for level 2 (Seed: 795042868806082513)
