@@ -56,3 +56,4 @@
 [16:19:22] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:47160|vexthecoder] -> UpstreamBridge has disconnected
 [16:19:22] [Netty Worker IO Thread #0/INFO]: [vexthecoder] disconnected with: Proxy lost connection to server.
 [16:19:22] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:47160|vexthecoder] <-> DownstreamBridge <-> [lobby] has disconnected
+[16:19:23] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/server-test/bungee/server-icon.png
