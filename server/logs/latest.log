@@ -304,3 +304,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:56:12] [Server thread/INFO]: [vexthecoder: Changing to clear weather]
 [18:56:57] [Server thread/INFO]: Kumbadia issued server command: /tpa vex
 [18:56:59] [Server thread/INFO]: vexthecoder issued server command: /tpaccept
+[18:58:44] [Server thread/INFO]: VoidTD1 issued server command: /home diddy
