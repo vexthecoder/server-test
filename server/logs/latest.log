@@ -292,3 +292,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:51:46] [Server thread/INFO]: [0;33;22mUsage: [0;37;1m/gamemode <mode> [player][m
 
 [18:51:57] [Server thread/INFO]: That player cannot be found
+[18:53:16] [Thread-10/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
