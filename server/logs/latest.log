@@ -240,3 +240,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:42:38] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
 [19:42:38] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
 [19:42:38] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[19:42:38] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
