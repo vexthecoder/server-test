@@ -237,3 +237,6 @@ Caused by: java.util.zip.ZipException: zip END header not found
 
 [18:39:08] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.4[m
 
+[18:39:08] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[18:39:08] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
+[18:39:08] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
