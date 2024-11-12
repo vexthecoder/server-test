@@ -266,3 +266,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:43:31] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:55748] logged in with entity id 765 at ([world]-4114.258780266594, 69.0, -1730.9144255982676)
 [18:46:55] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder cobblestone 400
 [18:46:55] [Server thread/INFO]: [vexthecoder: The number you have entered (400) is too big, it must be at most 64]
+[18:47:05] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder cobblestone 64
+[18:47:05] [Server thread/INFO]: [vexthecoder: Given [Cobblestone] * 64 to vexthecoder]
