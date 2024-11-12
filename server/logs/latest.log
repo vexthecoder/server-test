@@ -307,3 +307,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:58:44] [Server thread/INFO]: VoidTD1 issued server command: /home diddy
 [18:59:33] [Server thread/INFO]: VoidTD1 issued server command: /home b
 [19:00:31] [Server thread/INFO]: VoidTD1 issued server command: /home diddy
+[19:01:29] [Server thread/INFO]: VoidTD1 issued server command: /home b
