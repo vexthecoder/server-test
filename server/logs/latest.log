@@ -264,3 +264,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:43:18] [Server thread/INFO]: vexthecoder left the game.
 [18:43:31] [Thread-8/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
 [18:43:31] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:55748] logged in with entity id 765 at ([world]-4114.258780266594, 69.0, -1730.9144255982676)
+[18:46:55] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder cobblestone 400
+[18:46:55] [Server thread/INFO]: [vexthecoder: The number you have entered (400) is too big, it must be at most 64]
