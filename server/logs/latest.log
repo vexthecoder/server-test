@@ -87,3 +87,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [16:13:53] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
 [16:13:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
 [16:13:53] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[16:13:53] [Server thread/INFO]: Preparing level "world"
