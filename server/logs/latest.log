@@ -243,3 +243,6 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:39:09] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
 [18:39:09] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
 [18:39:09] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[18:39:09] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[18:39:09] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[18:39:09] [Server thread/INFO]: [LoginSecurity] Registering commands...
