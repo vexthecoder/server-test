@@ -302,3 +302,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:55:15] [Server thread/INFO]: Kumbadia[/[0:0:0:0:0:0:0:1]:58104] logged in with entity id 1749 at ([world]74.99923571027772, 64.0, -117.70746686162293)
 [18:56:12] [Server thread/INFO]: vexthecoder issued server command: /weather clear
 [18:56:12] [Server thread/INFO]: [vexthecoder: Changing to clear weather]
+[18:56:57] [Server thread/INFO]: Kumbadia issued server command: /tpa vex
