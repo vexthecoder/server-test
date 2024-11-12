@@ -284,3 +284,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:47:49] [Server thread/INFO]: vexthecoder lost connection: Disconnected
 [18:47:49] [Server thread/INFO]: vexthecoder left the game.
 [18:47:58] [Server thread/INFO]: Saving...
+[18:47:58] [Server thread/INFO]: Saved the world
