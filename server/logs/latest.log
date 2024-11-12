@@ -310,3 +310,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:01:29] [Server thread/INFO]: VoidTD1 issued server command: /home b
 [19:03:03] [Server thread/INFO]: VoidTD1 issued server command: /home diddy
 [19:03:10] [Server thread/INFO]: VoidTD1 issued server command: /home diddy
+[19:04:32] [Server thread/INFO]: Kumbadia lost connection: Disconnected
