@@ -288,3 +288,5 @@ Reason: Banned by an operator.
 [19:06:58] [Server thread/INFO]: VoidTD1[/[0:0:0:0:0:0:0:1]:37674] logged in with entity id 3607 at ([world]-4095.292861357526, 13.249187078744683, -1742.708645392726)
 [19:07:34] [Server thread/INFO]: vexthecoder issued server command: /tpa ku
 [19:07:44] [Server thread/INFO]: Kumbadia issued server command: /tpaccept
+[19:10:04] [Server thread/INFO]: Kumbadia fell from a high place
+[19:10:04] [Server thread/INFO]: vexthecoder issued server command: /back
