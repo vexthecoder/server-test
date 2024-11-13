@@ -296,3 +296,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [16:34:46] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:55410] logged in with entity id 3653 at ([world]73.31090977878752, 64.0, -116.49159873800623)
 [16:34:56] [Async Chat Thread - #0/INFO]: <vexthecoder> wsg[m
 
+[16:35:05] [Server thread/INFO]: vexthecoder issued server command: /gamemode c
+[16:35:05] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
