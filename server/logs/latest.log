@@ -270,3 +270,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [16:17:55] [Server thread/INFO]: vexthecoder issued server command: /enchant
 [16:18:14] [Server thread/INFO]: vexthecoder issued server command: /enchant vexthecoder efficiency 5
 [16:18:14] [Server thread/INFO]: [vexthecoder: Efficiency V can't be combined with Efficiency V]
+[16:18:29] [Server thread/INFO]: vexthecoder issued server command: /enchant vexthecoder fortune 3
+[16:18:29] [Server thread/INFO]: [vexthecoder: Fortune III can't be combined with Fortune II]
