@@ -272,3 +272,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 
 [14:54:56] [Server thread/INFO]: [0;31;1mUsage: /jumpto[m
 
+[15:04:25] [Thread-9/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
