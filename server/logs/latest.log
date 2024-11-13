@@ -355,3 +355,5 @@ Reason: Banned by an operator.
 [20:12:10] [Server thread/INFO]: vexthecoder issued server command: /
 [20:12:16] [Server thread/INFO]: vexthecoder issued server command: /time set night
 [20:12:16] [Server thread/INFO]: [vexthecoder: Set the time to 13000]
+[20:12:32] [Server thread/INFO]: vexthecoder issued server command: /gamerule playersSleepingPercentage 0.01
+[20:12:32] [Server thread/INFO]: [vexthecoder: Game rule has been updated]
