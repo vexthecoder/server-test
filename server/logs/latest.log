@@ -405,3 +405,5 @@ Reason: Banned by an operator.
 [20:18:45] [Server thread/INFO]: vexthecoder issued server command: /worldborder set 20000
 [20:18:45] [Server thread/INFO]: [vexthecoder: Set world border to 20000.0 blocks wide (from 60000000.0 blocks)]
 [20:18:45] [Server thread/INFO]: vexthecoder suffocated in a wall
+[20:19:07] [Server thread/INFO]: vexthecoder issued server command: /gamemode c
+[20:19:07] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
