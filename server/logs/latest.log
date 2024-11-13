@@ -387,3 +387,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 
 [16:52:14] [Server thread/INFO]: vexthecoder lost connection: Disconnected
 [16:52:14] [Server thread/INFO]: vexthecoder left the game.
+[16:53:50] [Server thread/INFO]: VoidTD1 issued server command: /home diddy
