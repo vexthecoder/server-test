@@ -481,3 +481,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 
 [17:09:54] [Server thread/INFO]: VoidTD1 lost connection: Disconnected
 [17:09:54] [Server thread/INFO]: VoidTD1 left the game.
+[17:10:02] [Server thread/INFO]: vexthecoder issued server command: /home castle
