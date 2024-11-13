@@ -288,3 +288,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [15:14:46] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
 [15:15:01] [Server thread/INFO]: vexthecoder issued server command: /gamemode s
 [15:15:01] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
+[15:16:51] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder dark_oak_logs 64
+[15:16:51] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:dark_oak_logs]
