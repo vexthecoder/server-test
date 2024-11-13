@@ -300,3 +300,5 @@ Reason: Banned by an operator.
 [19:16:17] [Server thread/INFO]: [vexthecoder: Set own game mode to Spectator Mode]
 [19:16:44] [Server thread/INFO]: vexthecoder issued server command: /tp kumbadia
 [19:16:44] [Server thread/INFO]: [vexthecoder: Teleported vexthecoder to Kumbadia]
+[19:16:59] [Server thread/INFO]: vexthecoder issued server command: /gamemode survival
+[19:16:59] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
