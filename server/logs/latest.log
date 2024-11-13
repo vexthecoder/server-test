@@ -306,3 +306,5 @@ Reason: Banned by an operator.
 [19:17:00] [Server thread/INFO]: [vexthecoder: Teleported vexthecoder to Kumbadia]
 [19:17:25] [Server thread/INFO]: vexthecoder issued server command: /tp void
 [19:17:25] [Server thread/INFO]: [vexthecoder: The entity UUID provided is in an invalid format]
+[19:17:27] [Server thread/INFO]: vexthecoder issued server command: /tp voidtd1
+[19:17:27] [Server thread/INFO]: [vexthecoder: Teleported vexthecoder to VoidTD1]
