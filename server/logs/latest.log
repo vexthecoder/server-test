@@ -264,3 +264,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:59:01] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:58118] logged in with entity id 698 at ([world]-4124.737723529829, 73.0, -1713.4658578275478)
 [18:59:25] [Thread-8/INFO]: UUID of player Kumbadia is c98fef90-09c8-3851-9029-391bbe93c043
 [18:59:25] [Server thread/INFO]: Kumbadia[/[0:0:0:0:0:0:0:1]:35544] logged in with entity id 833 at ([world]-4135.67011522818, 69.0, -1709.1444987310367)
+[18:59:26] [Thread-9/INFO]: UUID of player VoidTD1 is a1202c6c-cc39-3ce9-8cee-01fb82309203
