@@ -413,3 +413,5 @@ Reason: Banned by an operator.
 [20:20:04] [Server thread/INFO]: vexthecoder issued server command: /thru
 [20:20:07] [Server thread/INFO]: vexthecoder issued server command: /thru
 [20:20:10] [Server thread/INFO]: vexthecoder issued server command: /thru
+[20:20:21] [Server thread/INFO]: vexthecoder issued server command: /worldborder set 20900
+[20:20:21] [Server thread/INFO]: [vexthecoder: Set world border to 20900.0 blocks wide (from 20000.0 blocks)]
