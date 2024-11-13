@@ -277,3 +277,6 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [15:05:08] [Server thread/INFO]: vexthecoder issued server command: /home base
 [15:05:22] [Server thread/INFO]: vexthecoder issued server command: /home castle
 [15:11:04] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder path 64
+[15:11:04] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:path]
+[15:11:11] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder dirt_path 64
+[15:11:11] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:dirt_path]
