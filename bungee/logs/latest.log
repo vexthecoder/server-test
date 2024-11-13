@@ -92,3 +92,6 @@ Reason: Banned by an operator.
 [19:38:19] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:53194|vexthecoder] <-> DownstreamBridge <-> [lobby] has disconnected
 [20:04:53] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35030]: Connected via websocket
 [20:04:53] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35030]: Origin header is null
+[20:04:53] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35030]: Logged in as 'vexthecoder'
+[20:04:53] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:35030|vexthecoder] -> UpstreamBridge has connected
+[20:04:53] [Netty Worker IO Thread #2/INFO]: [vexthecoder|/[0:0:0:0:0:0:0:1%0]:35030] <-> ServerConnector [lobby] has connected

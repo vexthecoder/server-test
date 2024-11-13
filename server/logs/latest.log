@@ -329,3 +329,5 @@ Reason: Banned by an operator.
 [19:38:16] [Server thread/INFO]: [vexthecoder: Saved the world]
 [19:38:19] [Server thread/INFO]: vexthecoder lost connection: Disconnected
 [19:38:19] [Server thread/INFO]: vexthecoder left the game.
+[20:04:53] [Thread-15/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
+[20:04:53] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:33122] logged in with entity id 17269 at ([world]-4151.515981801034, 11.0, -2106.3824732444104)
