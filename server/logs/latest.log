@@ -321,3 +321,8 @@ Reason: Banned by an operator.
 [19:33:37] [Server thread/INFO]: VoidTD1 issued server command: /tpaccept
 [19:35:25] [Server thread/INFO]: vexthecoder issued server command: /save-all
 [19:35:25] [Server thread/INFO]: [vexthecoder: Saved the world]
+[19:38:02] [Server thread/INFO]: Kumbadia lost connection: Disconnected
+[19:38:02] [Server thread/INFO]: Kumbadia left the game.
+[19:38:03] [Server thread/INFO]: VoidTD1 lost connection: Disconnected
+[19:38:03] [Server thread/INFO]: VoidTD1 left the game.
+[19:38:16] [Server thread/INFO]: vexthecoder issued server command: /save-all

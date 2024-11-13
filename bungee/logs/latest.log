@@ -81,3 +81,9 @@ Reason: Banned by an operator.
 [19:06:58] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38922]: Logged in as 'VoidTD1'
 [19:06:58] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:38922|VoidTD1] -> UpstreamBridge has connected
 [19:06:58] [Netty Worker IO Thread #0/INFO]: [VoidTD1|/[0:0:0:0:0:0:0:1%0]:38922] <-> ServerConnector [lobby] has connected
+[19:38:02] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:59568|Kumbadia] -> UpstreamBridge has disconnected
+[19:38:02] [Netty Worker IO Thread #1/INFO]: [Kumbadia] disconnected with: Proxy lost connection to server.
+[19:38:02] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:59568|Kumbadia] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:38:03] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:38922|VoidTD1] -> UpstreamBridge has disconnected
+[19:38:03] [Netty Worker IO Thread #0/INFO]: [VoidTD1] disconnected with: Proxy lost connection to server.
+[19:38:03] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:38922|VoidTD1] <-> DownstreamBridge <-> [lobby] has disconnected
