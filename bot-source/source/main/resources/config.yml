@@ -1,0 +1,6 @@
+# config.yml
+bot-token: "MTMwNjMyNTM2MjgwNzkzMDk0MA.Gc0xPp.eIqVd6RTzXHtvz9BK7pehj6t2WBsfXsGjy5cRc"
+mc-chat-channel-id: "1306326605890715690"
+notif-channel-id: "1306328030699851806"
+admin-role-id: "1306326797532532858"
+rstart-cooldown: 1800

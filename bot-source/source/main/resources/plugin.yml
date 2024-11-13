@@ -1,0 +1,4 @@
+name: DiscordRelay
+version: 1.0
+main: com.vexthecoder.discordrelay.DiscordRelay
+api-version: 1.8
