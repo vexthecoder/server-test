@@ -407,3 +407,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 
 [17:01:35] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder ender_pearl 3
 [17:01:35] [Server thread/INFO]: [vexthecoder: Given [Ender Pearl] * 3 to vexthecoder]
+[17:01:39] [Async Chat Thread - #7/INFO]: <vexthecoder> they were gone for some reason[m
+
