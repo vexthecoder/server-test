@@ -479,3 +479,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 
 [17:09:51] [Async Chat Thread - #9/INFO]: <VoidTD1> later[m
 
+[17:09:54] [Server thread/INFO]: VoidTD1 lost connection: Disconnected
+[17:09:54] [Server thread/INFO]: VoidTD1 left the game.
