@@ -78,3 +78,6 @@ Reason: Banned by an operator.
 [19:06:53] [Netty Worker IO Thread #3/INFO]: [VoidTD1|/[0:0:0:0:0:0:0:1%0]:34584] <-> ServerConnector [lobby] has disconnected
 [19:06:57] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38922]: Connected via websocket
 [19:06:57] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38922]: Origin header is null
+[19:06:58] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38922]: Logged in as 'VoidTD1'
+[19:06:58] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:38922|VoidTD1] -> UpstreamBridge has connected
+[19:06:58] [Netty Worker IO Thread #0/INFO]: [VoidTD1|/[0:0:0:0:0:0:0:1%0]:38922] <-> ServerConnector [lobby] has connected
