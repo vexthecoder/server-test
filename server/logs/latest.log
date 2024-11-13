@@ -280,3 +280,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [15:11:04] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:path]
 [15:11:11] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder dirt_path 64
 [15:11:11] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:dirt_path]
+[15:11:22] [Server thread/INFO]: vexthecoder issued server command: /gamemode c
+[15:11:22] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
