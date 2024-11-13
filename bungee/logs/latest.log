@@ -69,3 +69,10 @@
 [19:06:48] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59584|VoidTD1] <-> DownstreamBridge <-> [lobby] has disconnected
 [19:06:52] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34584]: Connected via websocket
 [19:06:52] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34584]: Origin header is null
+[19:06:52] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:34584]: Logged in as 'VoidTD1'
+[19:06:52] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:34584|VoidTD1] -> UpstreamBridge has connected
+[19:06:52] [Netty Worker IO Thread #3/INFO]: [VoidTD1|/[0:0:0:0:0:0:0:1%0]:34584] <-> ServerConnector [lobby] has connected
+[19:06:53] [Netty Worker IO Thread #3/INFO]: [VoidTD1] disconnected with: Kicked whilst connecting to lobby: You are banned from this server!
+Reason: Banned by an operator.
+[19:06:53] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:34584|VoidTD1] -> UpstreamBridge has disconnected
+[19:06:53] [Netty Worker IO Thread #3/INFO]: [VoidTD1|/[0:0:0:0:0:0:0:1%0]:34584] <-> ServerConnector [lobby] has disconnected
