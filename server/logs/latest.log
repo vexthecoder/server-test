@@ -389,3 +389,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [16:52:14] [Server thread/INFO]: vexthecoder left the game.
 [16:53:50] [Server thread/INFO]: VoidTD1 issued server command: /home diddy
 [16:56:21] [Thread-12/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
+[16:56:21] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:41258] logged in with entity id 7556 at ([world]-4136.525568515858, 69.0, -1719.5043685099452)
