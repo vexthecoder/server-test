@@ -292,3 +292,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [16:29:43] [Server thread/INFO]: VoidTD1[/[0:0:0:0:0:0:0:1]:50670] logged in with entity id 2897 at ([world]72.67649682695289, 63.0, -101.69999998807907)
 [16:32:25] [Server thread/INFO]: VoidTD1 issued server command: /home b
 [16:33:55] [Server thread/INFO]: VoidTD1 issued server command: /home diddy
+[16:34:46] [Thread-10/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
+[16:34:46] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:55410] logged in with entity id 3653 at ([world]73.31090977878752, 64.0, -116.49159873800623)
