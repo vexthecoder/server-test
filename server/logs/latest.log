@@ -397,3 +397,4 @@ Reason: Banned by an operator.
 [20:17:49] [Server thread/INFO]: vexthecoder issued server command: /spreadplayers 10000 10000 500 1000 true vexthecoder
 [20:17:49] [Server thread/INFO]: [vexthecoder: Successfully spread 1 teams around 10000.5,10000.5]
 [20:17:54] [Server thread/INFO]: vexthecoder issued server command: //team
+[20:17:56] [Server thread/INFO]: vexthecoder issued server command: /team
