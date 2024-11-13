@@ -292,3 +292,5 @@ Reason: Banned by an operator.
 [19:10:04] [Server thread/INFO]: vexthecoder issued server command: /back
 [19:10:14] [Server thread/INFO]: vexthecoder issued server command: /tpahere kum
 [19:10:24] [Server thread/INFO]: Kumbadia issued server command: /accept
+[19:15:11] [Server thread/INFO]: vexthecoder issued server command: /gamemode spectator
+[19:15:11] [Server thread/INFO]: [vexthecoder: Set own game mode to Spectator Mode]
