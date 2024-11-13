@@ -324,3 +324,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [15:23:20] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
 [15:27:38] [Server thread/INFO]: vexthecoder issued server command: /save-all
 [15:27:38] [Server thread/INFO]: [vexthecoder: Saved the world]
+[15:27:40] [Server thread/INFO]: vexthecoder lost connection: Disconnected
+[15:27:40] [Server thread/INFO]: vexthecoder left the game.
