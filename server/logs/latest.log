@@ -429,3 +429,7 @@ Reason: Banned by an operator.
 [20:23:26] [Async Chat Thread - #1/INFO]: <vexthecoder> wwwwwwwwww[m
 
 [20:24:44] [Server thread/INFO]: vexthecoder issued server command: /home castle
+[20:30:38] [Server thread/INFO]: vexthecoder issued server command: /save-all
+[20:30:38] [Server thread/INFO]: [vexthecoder: Saved the world]
+[20:30:41] [Server thread/INFO]: vexthecoder lost connection: Disconnected
+[20:30:41] [Server thread/INFO]: vexthecoder left the game.

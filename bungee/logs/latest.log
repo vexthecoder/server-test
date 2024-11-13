@@ -95,3 +95,6 @@ Reason: Banned by an operator.
 [20:04:53] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35030]: Logged in as 'vexthecoder'
 [20:04:53] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:35030|vexthecoder] -> UpstreamBridge has connected
 [20:04:53] [Netty Worker IO Thread #2/INFO]: [vexthecoder|/[0:0:0:0:0:0:0:1%0]:35030] <-> ServerConnector [lobby] has connected
+[20:30:41] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:35030|vexthecoder] -> UpstreamBridge has disconnected
+[20:30:41] [Netty Worker IO Thread #2/INFO]: [vexthecoder] disconnected with: Proxy lost connection to server.
+[20:30:41] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:35030|vexthecoder] <-> DownstreamBridge <-> [lobby] has disconnected
