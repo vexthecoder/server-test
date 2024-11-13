@@ -425,3 +425,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [17:02:16] [Server thread/INFO]: VoidTD1 issued server command: /rip then
 [17:02:21] [Async Chat Thread - #7/INFO]: <VoidTD1> rip then[m
 
+[17:02:33] [Server thread/INFO]: vexthecoder issued server command: /rip then goes crazy
