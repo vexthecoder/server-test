@@ -363,3 +363,4 @@ Reason: Banned by an operator.
 [20:13:57] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
 [20:14:08] [Server thread/INFO]: vexthecoder issued server command: /gamemode s
 [20:14:08] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
+[20:14:16] [Server thread/INFO]: vexthecoder issued server command: /? locate
