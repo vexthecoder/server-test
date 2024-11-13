@@ -276,3 +276,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [16:18:42] [Server thread/INFO]: [vexthecoder: Fortune III can't be combined with Fortune II]
 [16:18:55] [Server thread/INFO]: vexthecoder issued server command: /xp 100L
 [16:18:55] [Server thread/INFO]: [vexthecoder: Given 100 levels to vexthecoder]
+[16:19:18] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder diamond_pickaxe 1
+[16:19:18] [Server thread/INFO]: [vexthecoder: Given [Diamond Pickaxe] * 1 to vexthecoder]
