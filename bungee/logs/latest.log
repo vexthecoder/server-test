@@ -64,3 +64,6 @@
 [18:59:26] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59584]: Logged in as 'VoidTD1'
 [18:59:26] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59584|VoidTD1] -> UpstreamBridge has connected
 [18:59:26] [Netty Worker IO Thread #2/INFO]: [VoidTD1|/[0:0:0:0:0:0:0:1%0]:59584] <-> ServerConnector [lobby] has connected
+[19:06:48] [Netty Worker IO Thread #2/INFO]: [VoidTD1] disconnected with: You are banned from this server.
+[19:06:48] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59584|VoidTD1] -> UpstreamBridge has disconnected
+[19:06:48] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59584|VoidTD1] <-> DownstreamBridge <-> [lobby] has disconnected

@@ -272,3 +272,6 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:04:19] [Server thread/INFO]: VoidTD1 issued server command: /homw b
 [19:04:26] [Server thread/INFO]: VoidTD1 issued server command: /home b
 [19:04:35] [Server thread/INFO]: Kumbadia issued server command: /tpa vex
+[19:06:48] [Server thread/INFO]: vexthecoder issued server command: /ban VoidTD1
+[19:06:48] [Server thread/INFO]: VoidTD1 lost connection: You are banned from this server.
+[19:06:48] [Server thread/INFO]: VoidTD1 left the game.

@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "a1202c6c-cc39-3ce9-8cee-01fb82309203",
+    "name": "VoidTD1",
+    "created": "2024-11-13 19:06:48 +0000",
+    "source": "vexthecoder",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
