@@ -306,3 +306,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [15:19:29] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:log4]
 [15:19:52] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder 17 64
 [15:19:52] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:17]
+[15:20:31] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder dark_oak_bark 64
+[15:20:31] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:dark_oak_bark]
