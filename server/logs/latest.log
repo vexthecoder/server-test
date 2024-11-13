@@ -302,3 +302,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [15:19:18] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:log1]
 [15:19:22] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder log3 64
 [15:19:22] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:log3]
+[15:19:29] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder log4 64
+[15:19:29] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:log4]
