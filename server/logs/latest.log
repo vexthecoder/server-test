@@ -294,3 +294,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [15:16:58] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:dark_logs]
 [15:17:29] [Server thread/INFO]: vexthecoder issued server command: /time set day
 [15:17:29] [Server thread/INFO]: [vexthecoder: Set the time to 1000]
+[15:18:10] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder dark_oak_log 64
+[15:18:10] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:dark_oak_log]
