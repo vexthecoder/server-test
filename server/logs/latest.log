@@ -421,3 +421,4 @@ Reason: Banned by an operator.
 [20:21:14] [Server thread/INFO]: vexthecoder issued server command: /worldborder set 20000
 [20:21:14] [Server thread/INFO]: [vexthecoder: Set world border to 20000.0 blocks wide (from 20900.0 blocks)]
 [20:21:51] [Server thread/INFO]: vexthecoder issued server command: /repair
+[20:21:55] [Server thread/INFO]: vexthecoder issued server command: /? repair
