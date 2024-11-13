@@ -348,3 +348,4 @@ Reason: Banned by an operator.
 [20:07:48] [Server thread/INFO]: vexthecoder issued server command: /back
 [20:07:48] [Server thread/INFO]: vexthecoder issued server command: /back
 [20:11:35] [Server thread/INFO]: vexthecoder issued server command: /gamerule
+[20:11:56] [Server thread/INFO]: vexthecoder issued server command: /gamerule playersSleepingPercentage
