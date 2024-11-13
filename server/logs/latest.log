@@ -423,3 +423,4 @@ Reason: Banned by an operator.
 [20:21:51] [Server thread/INFO]: vexthecoder issued server command: /repair
 [20:21:55] [Server thread/INFO]: vexthecoder issued server command: /? repair
 [20:22:05] [Server thread/INFO]: vexthecoder issued server command: /? restore
+[20:22:15] [Server thread/INFO]: vexthecoder issued server command: /restore
