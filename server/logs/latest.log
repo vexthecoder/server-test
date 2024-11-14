@@ -275,3 +275,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [15:48:22] [Server thread/INFO]: vexthecoder issued server command: /save-all
 [15:48:22] [Server thread/INFO]: [vexthecoder: Saved the world]
 [16:09:47] [Server thread/INFO]: vexthecoder issued server command: /save-all
+[16:09:47] [Server thread/INFO]: [vexthecoder: Saved the world]
