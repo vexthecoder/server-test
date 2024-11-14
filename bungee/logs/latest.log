@@ -48,3 +48,5 @@
 [18:51:19] [main/INFO] [EaglercraftXBungee]: Voice chat disabled, add "allow_voice: true" to your listeners to enable
 [18:51:19] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.3.1 by lax1dude
 [18:51:19] [Netty Boss IO Thread #1/INFO]: Listening on /127.0.0.1:25577
+[18:52:37] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57388]: Connected via websocket
+[18:52:37] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57388]: Origin header is null
