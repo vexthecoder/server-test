@@ -304,3 +304,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:29:36] [Server thread/INFO]: VoidTD1 has just earned the achievement [Getting an Upgrade]
 [19:31:19] [Server thread/INFO]: VoidTD1 issued server command: /home diddy
 [19:31:22] [Server thread/INFO]: vexthecoder issued server command: /home castle
+[19:32:15] [Server thread/INFO]: VoidTD1 issued server command: /home b
