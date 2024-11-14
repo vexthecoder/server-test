@@ -286,3 +286,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:17:42] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
 [19:17:52] [Server thread/INFO]: vexthecoder issued server command: /home base
 [19:19:26] [Server thread/INFO]: VoidTD1 issued server command: /tpa vex
+[19:19:34] [Server thread/INFO]: vexthecoder issued server command: /tpaccept
