@@ -272,3 +272,6 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [17:03:54] [Thread-7/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
 [17:03:54] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:46266] logged in with entity id 722 at ([world]-4156.092672663059, 69.0, -1708.305612546713)
 [17:07:50] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder diamond_pickaxe 1
+[17:07:50] [Server thread/INFO]: [vexthecoder: Given [Diamond Pickaxe] * 1 to vexthecoder]
+[17:07:59] [Server thread/INFO]: vexthecoder issued server command: /enchant efficiency 5
+[17:07:59] [Server thread/INFO]: [vexthecoder: That player cannot be found]
