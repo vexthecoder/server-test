@@ -49,3 +49,5 @@
 [17:02:54] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.3.1 by lax1dude
 [17:02:54] [Netty Boss IO Thread #1/INFO]: Listening on /127.0.0.1:25577
 [17:03:04] [Netty Worker IO Thread #0/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/server-test/bungee/server-icon.png
+[17:03:53] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56820]: Connected via websocket
+[17:03:53] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56820]: Origin header is null
