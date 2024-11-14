@@ -58,3 +58,6 @@
 [17:03:54] [Netty Worker IO Thread #1/WARN]: Event LoginEvent(cancelled=false, reason=null, loginResult=null, connection=[/[0:0:0:0:0:0:0:1%0]:56820|vexthecoder] <-> InitialHandler) took 346ms to process!
 [17:03:54] [Netty Worker IO Thread #1/WARN]: Event PreLoginEvent(cancelled=false, reason=null, connection=[/[0:0:0:0:0:0:0:1%0]:56820|vexthecoder] <-> InitialHandler) took 348ms to process!
 [17:03:54] [Netty Worker IO Thread #1/INFO]: [vexthecoder|/[0:0:0:0:0:0:0:1%0]:56820] <-> ServerConnector [lobby] has connected
+[17:10:12] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:56820|vexthecoder] -> UpstreamBridge has disconnected
+[17:10:12] [Netty Worker IO Thread #1/INFO]: [vexthecoder] disconnected with: Proxy lost connection to server.
+[17:10:12] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:56820|vexthecoder] <-> DownstreamBridge <-> [lobby] has disconnected
