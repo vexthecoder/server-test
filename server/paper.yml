@@ -35,10 +35,14 @@ world-settings:
       village: true
       flat-bedrock: false
     allow-block-location-tab-completion: true
-    despawn-ranges:
-      soft: 32
-      hard: 128
-    falling-block-height-nerf: 0
+    cache-chunk-maps: false
+    tnt-explosion-volume: 4.0
+    squid-spawn-height:
+      minimum: 45.0
+      maximum: 63.0
+    max-growth-height:
+      cactus: 3
+      reeds: 3
     remove-unloaded:
       enderpearls: true
       tnt-entities: true
@@ -48,30 +52,26 @@ world-settings:
       disable-player-crits: false
       disable-chest-cat-detection: false
       disable-end-credits: false
+    nether-ceiling-void-damage: false
+    load-chunks:
+      enderpearls: false
+      tnt-entities: false
+      falling-blocks: false
     disable-teleportation-suffocation-check: false
-    optimize-explosions: false
-    mob-spawner-tick-rate: 1
-    cache-chunk-maps: false
-    tnt-explosion-volume: 4.0
-    squid-spawn-height:
-      minimum: 45.0
-      maximum: 63.0
-    max-growth-height:
-      cactus: 3
-      reeds: 3
     fishing-time-range:
       MinimumTicks: 100
       MaximumTicks: 900
     player-exhaustion:
       block-break: 0.02500000037252903
       swimming: 0.014999999664723873
+    despawn-ranges:
+      soft: 32
+      hard: 128
+    falling-block-height-nerf: 0
     player-blocking-damage-multiplier: 0.5
+    optimize-explosions: false
+    mob-spawner-tick-rate: 1
     remove-invalid-mob-spawner-tile-entities: true
-    nether-ceiling-void-damage: false
-    load-chunks:
-      enderpearls: false
-      tnt-entities: false
-      falling-blocks: false
     fast-drain:
       lava: false
       water: false
@@ -85,8 +85,8 @@ world-settings:
     use-hopper-check: false
     all-chunks-are-slime-chunks: false
     allow-undead-horse-leashing: false
-    keep-spawn-loaded: true
     container-update-tick-rate: 1
+    keep-spawn-loaded: true
     falling-blocks-collide-with-signs: false
     disable-mood-sounds: false
     use-async-lighting: false
