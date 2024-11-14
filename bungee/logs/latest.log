@@ -57,3 +57,5 @@
 [15:27:46] [Netty Worker IO Thread #0/INFO]: [vexthecoder] disconnected with: Proxy lost connection to server.
 [15:27:46] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:47814|vexthecoder] <-> DownstreamBridge <-> [lobby] has disconnected
 [15:27:46] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/server-test/bungee/server-icon.png
+[15:34:42] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41250]: Connected via websocket
+[15:34:42] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41250]: Origin header is null
