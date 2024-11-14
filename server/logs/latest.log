@@ -270,3 +270,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:04:21] [Server thread/INFO]: vexthecoder issued server command: /home castle
 [19:06:04] [Server thread/INFO]: vexthecoder lost connection: Disconnected
 [19:06:04] [Server thread/INFO]: vexthecoder left the game.
+[19:06:21] [Thread-9/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
