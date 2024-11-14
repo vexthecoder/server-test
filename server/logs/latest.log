@@ -289,3 +289,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [16:18:27] [Server thread/INFO]: vexthecoder issued server command: /? minecraft 4
 [16:18:37] [Server thread/INFO]: vexthecoder issued server command: /? minecraft 5
 [16:18:42] [Server thread/INFO]: vexthecoder issued server command: /? minecraft 6
+[16:18:52] [Server thread/INFO]: vexthecoder issued server command: /? minecraft 7
