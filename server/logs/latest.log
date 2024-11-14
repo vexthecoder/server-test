@@ -297,3 +297,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:25:30] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:43212] logged in with entity id 8187 at ([world]77.42198263729102, 11.0, -218.30190862120256)
 [19:25:47] [Server thread/INFO]: vexthecoder issued server command: /home castle
 [19:27:06] [Server thread/INFO]: VoidTD1 tried to swim in lava
+[19:27:27] [Server thread/INFO]: VoidTD1 issued server command: /home b
