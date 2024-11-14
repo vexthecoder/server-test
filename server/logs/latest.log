@@ -302,3 +302,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:28:48] [Server thread/INFO]: VoidTD1 issued server command: /home b
 [19:29:36] [Server thread/INFO]: VoidTD1 has just earned the achievement [Time to Mine!]
 [19:29:36] [Server thread/INFO]: VoidTD1 has just earned the achievement [Getting an Upgrade]
+[19:31:19] [Server thread/INFO]: VoidTD1 issued server command: /home diddy
