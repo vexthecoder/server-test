@@ -269,3 +269,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [15:47:00] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder diamond_pickaxe 1
 [15:47:00] [Server thread/INFO]: [vexthecoder: Given [Diamond Pickaxe] * 1 to vexthecoder]
 [15:47:03] [Server thread/INFO]: vexthecoder issued server command: /home base
+[15:47:12] [Server thread/INFO]: vexthecoder issued server command: /home castle
