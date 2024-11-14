@@ -283,3 +283,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [17:08:30] [Server thread/INFO]: [vexthecoder: Enchanting succeeded]
 [17:10:12] [Server thread/INFO]: vexthecoder lost connection: Disconnected
 [17:10:12] [Server thread/INFO]: vexthecoder left the game.
+[17:10:19] [Server thread/INFO]: Saving...
