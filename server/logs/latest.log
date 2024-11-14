@@ -279,3 +279,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [16:11:36] [Server thread/INFO]: vexthecoder issued server command: /weather clear
 [16:11:36] [Server thread/INFO]: [vexthecoder: Changing to clear weather]
 [16:17:14] [Server thread/INFO]: vexthecoder issued server command: /home base
+[16:17:25] [Server thread/INFO]: vexthecoder issued server command: /home castle
