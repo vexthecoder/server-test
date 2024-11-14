@@ -309,3 +309,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:36:22] [Server thread/INFO]: VoidTD1 issued server command: /home diddy
 [19:37:18] [Server thread/INFO]: vexthecoder issued server command: /save-all
 [19:37:18] [Server thread/INFO]: [vexthecoder: Saved the world]
+[19:37:28] [Server thread/INFO]: VoidTD1 issued server command: /home b
