@@ -293,3 +293,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:21:33] [Server thread/INFO]: VoidTD1[/[0:0:0:0:0:0:0:1]:49488] logged in with entity id 5836 at ([world]79.72934274232927, 10.0, -219.58206993738554)
 [19:25:27] [Server thread/INFO]: vexthecoder lost connection: Disconnected
 [19:25:27] [Server thread/INFO]: vexthecoder left the game.
+[19:25:30] [Thread-12/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
+[19:25:30] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:43212] logged in with entity id 8187 at ([world]77.42198263729102, 11.0, -218.30190862120256)
