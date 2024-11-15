@@ -273,3 +273,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:46:26] [Server thread/INFO]: vexthecoder issued server command: //set stone_bricks
 [18:46:35] [Server thread/INFO]: vexthecoder issued server command: //set stone_bricks
 [18:46:59] [Server thread/INFO]: vexthecoder issued server command: //walls stone_bricks
+[18:47:05] [Server thread/INFO]: vexthecoder issued server command: //walls planks
