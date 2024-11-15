@@ -293,3 +293,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [16:15:11] [Server thread/INFO]: [vexthecoder: Given [Dark Oak Wood Planks] * 5 to vexthecoder]
 [16:15:25] [Server thread/INFO]: vexthecoder issued server command: //replace planks 5 stone_bricks
 [16:15:30] [Server thread/INFO]: vexthecoder issued server command: //replace planks stone_bricks
+[16:16:32] [Server thread/INFO]: vexthecoder issued server command: //set air
