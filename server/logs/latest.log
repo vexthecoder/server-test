@@ -284,3 +284,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [15:44:12] [Server thread/INFO]: vexthecoder left the game.
 [15:46:45] [Thread-12/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
 [15:46:46] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:44374] logged in with entity id 4168 at ([world]-4129.062902840544, 69.0, -1714.9174689479285)
+[15:48:19] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder chest 2
+[15:48:19] [Server thread/INFO]: [vexthecoder: Given [Chest] * 2 to vexthecoder]
