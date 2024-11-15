@@ -273,3 +273,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:04:58] [Server thread/INFO]: VoidTD1 left the game.
 [19:05:00] [Thread-9/INFO]: UUID of player VoidTD1 is a1202c6c-cc39-3ce9-8cee-01fb82309203
 [19:05:00] [Server thread/INFO]: VoidTD1[/[0:0:0:0:0:0:0:1]:46708] logged in with entity id 1046 at ([world]-4125.662452520371, 68.9785749652624, -1715.5422685606413)
+[19:06:38] [Server thread/INFO]: VoidTD1 fell from a high place
