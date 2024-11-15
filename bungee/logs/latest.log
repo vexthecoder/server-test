@@ -63,3 +63,5 @@
 [18:50:59] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:35926]: Logged in as 'vexthecoder'
 [18:50:59] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:35926|vexthecoder] -> UpstreamBridge has connected
 [18:50:59] [Netty Worker IO Thread #0/INFO]: [vexthecoder|/[0:0:0:0:0:0:0:1%0]:35926] <-> ServerConnector [lobby] has connected
+[18:54:35] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55032]: Connected via websocket
+[18:54:35] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55032]: Origin header is null
