@@ -271,3 +271,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:04:55] [Server thread/INFO]: VoidTD1 issued server command: /
 [19:04:58] [Server thread/INFO]: VoidTD1 lost connection: Disconnected
 [19:04:58] [Server thread/INFO]: VoidTD1 left the game.
+[19:05:00] [Thread-9/INFO]: UUID of player VoidTD1 is a1202c6c-cc39-3ce9-8cee-01fb82309203
