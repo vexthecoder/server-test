@@ -35,6 +35,7 @@ world-settings:
       village: true
       flat-bedrock: false
     allow-block-location-tab-completion: true
+    nether-ceiling-void-damage: false
     load-chunks:
       enderpearls: false
       tnt-entities: false
@@ -71,7 +72,6 @@ world-settings:
       disable-player-crits: false
       disable-chest-cat-detection: false
       disable-end-credits: false
-    nether-ceiling-void-damage: false
     fast-drain:
       lava: false
       water: false
