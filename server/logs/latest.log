@@ -288,3 +288,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 
 [19:24:31] [Server thread/INFO]: VoidTD1 issued server command: /home b
 [19:29:13] [Server thread/INFO]: VoidTD1 issued server command: /home fort
+[19:29:19] [Server thread/INFO]: VoidTD1 issued server command: /sethome fort
