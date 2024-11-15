@@ -304,3 +304,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:37:13] [Server thread/INFO]: [vexthecoder: Game rule has been updated]
 [19:37:23] [Server thread/INFO]: vexthecoder issued server command: /enchant voidtd1 sharpness 5
 [19:37:23] [Server thread/INFO]: [vexthecoder: Enchanting succeeded]
+[19:38:30] [Server thread/INFO]: VoidTD1 lost connection: Disconnected
+[19:38:30] [Server thread/INFO]: VoidTD1 left the game.
