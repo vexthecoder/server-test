@@ -296,3 +296,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:36:16] [Server thread/INFO]: VoidTD1 burned to death
 [19:36:21] [Server thread/INFO]: VoidTD1 issued server command: /home
 [19:36:24] [Server thread/INFO]: VoidTD1 issued server command: /back
+[19:36:45] [Server thread/INFO]: VoidTD1 issued server command: /tpa vex
