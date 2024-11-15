@@ -416,3 +416,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:27:07] [Server thread/INFO]: [vexthecoder: Given [Spawn Villager] * 4 to vexthecoder]
 [20:27:18] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder lectern 5
 [20:27:18] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:lectern]
+[20:27:44] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder lectern 5
+[20:27:44] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:lectern]
