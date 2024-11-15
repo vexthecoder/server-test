@@ -332,3 +332,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:03:19] [Server thread/INFO]: [vexthecoder: Enchanting succeeded]
 [20:03:21] [Server thread/INFO]: vexthecoder issued server command: /enchant vexthecoder protection 4
 [20:03:21] [Server thread/INFO]: [vexthecoder: Enchanting succeeded]
+[20:03:22] [Server thread/INFO]: vexthecoder issued server command: /enchant vexthecoder protection 4
+[20:03:22] [Server thread/INFO]: [vexthecoder: Enchanting succeeded]
