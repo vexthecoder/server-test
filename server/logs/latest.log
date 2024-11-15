@@ -277,3 +277,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [16:12:36] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:dark_plank]
 [16:12:40] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder dark_oak_plank
 [16:12:40] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:dark_oak_plank]
+[16:12:45] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder dark_oak
+[16:12:45] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:dark_oak]
