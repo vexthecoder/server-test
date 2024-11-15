@@ -278,3 +278,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:08:10] [Server thread/INFO]: vexthecoder issued server command: /enchant voidtd1 looting 3
 [19:08:10] [Server thread/INFO]: [vexthecoder: Enchanting succeeded]
 [19:12:55] [Server thread/WARN]: vexthecoder moved wrongly!
+[19:16:42] [Server thread/INFO]: VoidTD1 has just earned the achievement [Cow Tipper]
