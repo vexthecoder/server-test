@@ -294,3 +294,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:54:35] [Server thread/INFO]: VoidTD1[/[0:0:0:0:0:0:0:1]:60328] logged in with entity id 2425 at ([world]-4128.300000011921, 69.0, -1712.1307864232338)
 [18:56:08] [Server thread/INFO]: vexthecoder issued server command: /home castle
 [18:58:18] [Server thread/INFO]: vexthecoder issued server command: /home castle
+[19:01:28] [Server thread/INFO]: vexthecoder issued server command: /home castl
+[19:01:32] [Server thread/INFO]: vexthecoder issued server command: /home castle
