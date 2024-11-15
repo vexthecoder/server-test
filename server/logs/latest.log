@@ -375,3 +375,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:18:00] [Server thread/INFO]: vexthecoder issued server command: /home castle
 [20:18:18] [Server thread/INFO]: vexthecoder issued server command: /back
 [20:18:21] [Server thread/INFO]: vexthecoder issued server command: /home end
+[20:19:34] [Server thread/INFO]: vexthecoder issued server command: /gamemode sp
+[20:19:34] [Server thread/INFO]: [vexthecoder: Set own game mode to Spectator Mode]
