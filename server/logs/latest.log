@@ -298,3 +298,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:36:24] [Server thread/INFO]: VoidTD1 issued server command: /back
 [19:36:45] [Server thread/INFO]: VoidTD1 issued server command: /tpa vex
 [19:36:54] [Server thread/INFO]: vexthecoder issued server command: /tpaccept
+[19:36:56] [Async Chat Thread - #2/INFO]: <vexthecoder> `[m
+
