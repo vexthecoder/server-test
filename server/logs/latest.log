@@ -281,3 +281,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:16:42] [Server thread/INFO]: VoidTD1 has just earned the achievement [Cow Tipper]
 [19:19:51] [Server thread/INFO]: vexthecoder issued server command: /save-all
 [19:19:51] [Server thread/INFO]: [vexthecoder: Saved the world]
+[19:22:04] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
