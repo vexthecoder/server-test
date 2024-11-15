@@ -324,3 +324,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:49:35] [Server thread/INFO]: vexthecoder issued server command: /homes
 [19:49:38] [Server thread/INFO]: vexthecoder issued server command: /delhome a
 [19:49:45] [Server thread/INFO]: vexthecoder issued server command: /home base
+[19:50:48] [Server thread/INFO]: vexthecoder issued server command: /home castle
