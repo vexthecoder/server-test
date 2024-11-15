@@ -288,3 +288,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [15:48:19] [Server thread/INFO]: [vexthecoder: Given [Chest] * 2 to vexthecoder]
 [15:48:32] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder trapped_chest 8
 [15:48:32] [Server thread/INFO]: [vexthecoder: Given [Trapped Chest] * 8 to vexthecoder]
+[16:02:01] [Server thread/INFO]: vexthecoder issued server command: /gamemode c
+[16:02:01] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
