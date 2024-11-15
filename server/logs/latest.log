@@ -284,3 +284,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:22:04] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 
 [19:22:09] [Server thread/INFO]: [Server] test
+[19:23:59] [Async Chat Thread - #0/INFO]: <vexthecoder> -3720 -904[m
+
