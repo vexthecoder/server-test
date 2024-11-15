@@ -421,3 +421,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:27:47] [Server thread/INFO]: vexthecoder issued server command: /
 [20:29:27] [Server thread/INFO]: vexthecoder issued server command: /gamemode s
 [20:29:27] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
+[20:29:29] [Server thread/INFO]: vexthecoder issued server command: /save-all
