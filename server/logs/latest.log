@@ -394,3 +394,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:25:18] [Server thread/INFO]: [vexthecoder: Given [Spawn] * 4 to vexthecoder]
 [20:25:21] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder spawn_egg 4 1
 [20:25:21] [Server thread/INFO]: [vexthecoder: Given [Spawn Item] * 4 to vexthecoder]
+[20:25:29] [Server thread/INFO]: vexthecoder issued server command: /gamemode c
+[20:25:29] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
