@@ -309,3 +309,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:39:08] [Server thread/INFO]: vexthecoder issued server command: /sethome blaze
 [19:39:11] [Server thread/INFO]: vexthecoder issued server command: /save-all
 [19:39:11] [Server thread/INFO]: [vexthecoder: Saved the world]
+[19:39:12] [Server thread/INFO]: vexthecoder lost connection: Disconnected
+[19:39:12] [Server thread/INFO]: vexthecoder left the game.

@@ -74,3 +74,6 @@
 [19:38:30] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:58860|VoidTD1] -> UpstreamBridge has disconnected
 [19:38:30] [Netty Worker IO Thread #2/INFO]: [VoidTD1] disconnected with: Proxy lost connection to server.
 [19:38:30] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:58860|VoidTD1] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:39:12] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:37082|vexthecoder] -> UpstreamBridge has disconnected
+[19:39:12] [Netty Worker IO Thread #0/INFO]: [vexthecoder] disconnected with: Proxy lost connection to server.
+[19:39:12] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:37082|vexthecoder] <-> DownstreamBridge <-> [lobby] has disconnected
