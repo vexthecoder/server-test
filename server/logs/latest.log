@@ -295,3 +295,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [16:15:30] [Server thread/INFO]: vexthecoder issued server command: //replace planks stone_bricks
 [16:16:32] [Server thread/INFO]: vexthecoder issued server command: //set air
 [16:16:49] [Server thread/INFO]: vexthecoder issued server command: //set air
+[16:16:56] [Server thread/INFO]: vexthecoder issued server command: //set hopper
