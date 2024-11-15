@@ -290,3 +290,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:54:29] [Server thread/INFO]: vexthecoder issued server command: /home castle
 [18:54:31] [Server thread/INFO]: vexthecoder issued server command: /save-all
 [18:54:31] [Server thread/INFO]: [vexthecoder: Saved the world]
+[18:54:35] [Thread-10/INFO]: UUID of player VoidTD1 is a1202c6c-cc39-3ce9-8cee-01fb82309203
