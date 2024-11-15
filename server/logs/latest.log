@@ -354,3 +354,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:06:23] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
 [20:10:44] [Server thread/INFO]: vexthecoder issued server command: /gamemode sp
 [20:10:44] [Server thread/INFO]: [vexthecoder: Set own game mode to Spectator Mode]
+[20:12:40] [Server thread/INFO]: vexthecoder issued server command: /tp -444 1060
+[20:12:40] [Server thread/INFO]: [vexthecoder: The entity UUID provided is in an invalid format]
