@@ -370,3 +370,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:14:02] [Server thread/INFO]: [vexthecoder: Set own game mode to Spectator Mode]
 [20:14:07] [Server thread/INFO]: vexthecoder issued server command: /gamemode s
 [20:14:07] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
+[20:15:12] [Server thread/INFO]: vexthecoder issued server command: /sethome end
