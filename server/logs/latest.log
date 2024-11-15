@@ -358,3 +358,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:12:40] [Server thread/INFO]: [vexthecoder: The entity UUID provided is in an invalid format]
 [20:12:44] [Server thread/INFO]: vexthecoder issued server command: /tp -444 120 1060
 [20:12:44] [Server thread/INFO]: [vexthecoder: Teleported vexthecoder to -443.5, 120.0, 1060.5]
+[20:13:02] [Server thread/INFO]: vexthecoder issued server command: /gamemode s
+[20:13:02] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
