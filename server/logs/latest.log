@@ -289,3 +289,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [16:14:27] [Server thread/INFO]: [vexthecoder: There is no such item with name planks:5]
 [16:14:32] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder 5
 [16:14:32] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:5]
+[16:15:11] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder planks 5 5
+[16:15:11] [Server thread/INFO]: [vexthecoder: Given [Dark Oak Wood Planks] * 5 to vexthecoder]
