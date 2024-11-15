@@ -384,3 +384,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:21:20] [Server thread/INFO]: vexthecoder issued server command: /thru
 [20:21:25] [Server thread/INFO]: vexthecoder issued server command: /thru
 [20:21:27] [Server thread/INFO]: vexthecoder issued server command: /thru
+[20:21:30] [Server thread/INFO]: vexthecoder issued server command: /thru
