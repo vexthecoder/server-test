@@ -346,3 +346,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:03:34] [Server thread/INFO]: [vexthecoder: Enchanting succeeded]
 [20:05:16] [Server thread/INFO]: vexthecoder issued server command: /gamemode sp
 [20:05:16] [Server thread/INFO]: [vexthecoder: Set own game mode to Spectator Mode]
+[20:05:58] [Server thread/INFO]: vexthecoder issued server command: /gamemode s
+[20:05:58] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
