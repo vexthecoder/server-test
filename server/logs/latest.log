@@ -410,3 +410,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:26:33] [Server thread/INFO]: [vexthecoder: The number you have entered (120) is too big, it must be at most 64]
 [20:26:58] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder 383 1 120
 [20:26:58] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:383]
+[20:27:03] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder spawn_egg 1 120
+[20:27:03] [Server thread/INFO]: [vexthecoder: Given [Spawn Villager] * 1 to vexthecoder]
