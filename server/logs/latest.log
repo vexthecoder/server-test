@@ -319,3 +319,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [17:22:00] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:debug_stick]
 [17:23:51] [Server thread/INFO]: vexthecoder issued server command: //set air
 [17:25:24] [Server thread/INFO]: vexthecoder issued server command: //set air
+[17:25:38] [Server thread/INFO]: vexthecoder issued server command: //set planks 5
