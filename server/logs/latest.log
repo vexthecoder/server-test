@@ -319,3 +319,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:47:34] [Server thread/INFO]: vexthecoder issued server command: //setback
 [19:48:25] [Server thread/INFO]: vexthecoder issued server command: /
 [19:49:23] [Server thread/INFO]: vexthecoder issued server command: /homes
+[19:49:29] [Server thread/INFO]: vexthecoder issued server command: /sethome
