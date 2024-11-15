@@ -288,3 +288,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:54:20] [Server thread/INFO]: vexthecoder issued server command: /gamemode s
 [18:54:20] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
 [18:54:29] [Server thread/INFO]: vexthecoder issued server command: /home castle
+[18:54:31] [Server thread/INFO]: vexthecoder issued server command: /save-all
+[18:54:31] [Server thread/INFO]: [vexthecoder: Saved the world]
