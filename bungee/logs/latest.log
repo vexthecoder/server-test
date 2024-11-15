@@ -55,3 +55,6 @@
 [18:22:42] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:33274|vexthecoder] -> UpstreamBridge has connected
 [18:22:42] [Netty Worker IO Thread #1/WARN]: Plugin listener net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.handlers.EaglerPacketEventListener took 93ms to process event PostLoginEvent(player=vexthecoder, target=BungeeServerInfo(name=lobby, socketAddress=localhost/127.0.0.1:25565, restricted=false))!
 [18:22:42] [Netty Worker IO Thread #1/INFO]: [vexthecoder|/[0:0:0:0:0:0:0:1%0]:33274] <-> ServerConnector [lobby] has connected
+[18:47:26] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:33274|vexthecoder] -> UpstreamBridge has disconnected
+[18:47:26] [Netty Worker IO Thread #1/INFO]: [vexthecoder] disconnected with: Proxy lost connection to server.
+[18:47:26] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:33274|vexthecoder] <-> DownstreamBridge <-> [lobby] has disconnected
