@@ -317,3 +317,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [17:21:08] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:45308] logged in with entity id 1455 at ([world]-4121.699999988079, 67.0, -1714.699999988079)
 [17:22:00] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder debug_stick
 [17:22:00] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:debug_stick]
+[17:23:51] [Server thread/INFO]: vexthecoder issued server command: //set air
