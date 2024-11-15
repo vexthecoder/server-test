@@ -398,3 +398,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:25:29] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
 [20:25:37] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder spawn_egg 2 1
 [20:25:37] [Server thread/INFO]: [vexthecoder: Given [Spawn Item] * 2 to vexthecoder]
+[20:25:42] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder spawn_egg villager 1
+[20:25:42] [Server thread/INFO]: [vexthecoder: 'villager' is not a valid number]
