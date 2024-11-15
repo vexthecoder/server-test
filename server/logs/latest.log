@@ -264,3 +264,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 
 [16:09:25] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[16:11:04] [Thread-7/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
+[16:11:05] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:38406] logged in with entity id 736 at ([world]-4120.569522908451, 68.0, -1714.5126724709532)
