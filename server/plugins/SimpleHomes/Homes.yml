@@ -45,6 +45,11 @@ vexthecoder:
     X: -4154.587656849637
     Y: 69.0
     Z: -1722.6708786885677
+  blaze:
+    world: world_nether
+    X: -639.1801274926477
+    Y: 60.0
+    Z: -455.5170545079386
 Kumbadia:
   farm:
     world: world
