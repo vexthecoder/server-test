@@ -313,3 +313,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 
 [17:16:35] [Server thread/INFO]: Saving...
 [17:16:35] [Server thread/INFO]: Saved the world
+[17:21:08] [Thread-11/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
