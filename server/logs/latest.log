@@ -271,3 +271,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:34:42] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
 [18:46:19] [Server thread/INFO]: vexthecoder issued server command: //wand
 [18:46:26] [Server thread/INFO]: vexthecoder issued server command: //set stone_bricks
+[18:46:35] [Server thread/INFO]: vexthecoder issued server command: //set stone_bricks
