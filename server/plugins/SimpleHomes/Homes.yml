@@ -50,6 +50,11 @@ vexthecoder:
     X: -639.1801274926477
     Y: 60.0
     Z: -455.5170545079386
+  a:
+    world: world
+    X: -4146.629959355411
+    Y: 69.0
+    Z: -1718.308844281738
 Kumbadia:
   farm:
     world: world
