@@ -270,3 +270,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [16:11:45] [Server thread/INFO]: vexthecoder issued server command: //set stone_bricks
 [16:12:01] [Server thread/INFO]: vexthecoder issued server command: //set stone_bricks
 [16:12:09] [Server thread/INFO]: vexthecoder issued server command: //undo
+[16:12:20] [Server thread/INFO]: vexthecoder issued server command: //replace dark_oak_planks stone_bricks
