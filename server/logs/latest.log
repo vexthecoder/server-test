@@ -287,3 +287,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:51:19] [Server thread/INFO]: [vexthecoder: Could not de-op VoidTD1]
 [18:54:20] [Server thread/INFO]: vexthecoder issued server command: /gamemode s
 [18:54:20] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
+[18:54:29] [Server thread/INFO]: vexthecoder issued server command: /home castle
