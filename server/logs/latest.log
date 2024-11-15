@@ -264,3 +264,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 
 [14:59:03] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 
+[15:01:10] [Thread-7/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
