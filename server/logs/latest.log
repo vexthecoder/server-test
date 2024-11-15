@@ -276,3 +276,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:47:05] [Server thread/INFO]: vexthecoder issued server command: //walls planks
 [18:47:08] [Server thread/INFO]: vexthecoder issued server command: //walls planks5
 [18:47:11] [Server thread/INFO]: vexthecoder issued server command: //walls planks 5
+[18:47:18] [Server thread/INFO]: vexthecoder issued server command: //walls "planks 5"
