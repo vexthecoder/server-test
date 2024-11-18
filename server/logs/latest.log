@@ -356,3 +356,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:34:21] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:button]
 [19:34:30] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder button 1 1
 [19:34:30] [Server thread/INFO]: [vexthecoder: There is no such item with name minecraft:button]
+[19:34:37] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder lever 1
+[19:34:37] [Server thread/INFO]: [vexthecoder: Given [Lever] * 1 to vexthecoder]
