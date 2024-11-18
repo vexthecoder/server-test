@@ -67,3 +67,6 @@
 [19:08:02] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58926]: Logged in as 'Kumbadia'
 [19:08:02] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:58926|Kumbadia] -> UpstreamBridge has connected
 [19:08:02] [Netty Worker IO Thread #0/INFO]: [Kumbadia|/[0:0:0:0:0:0:0:1%0]:58926] <-> ServerConnector [lobby] has connected
+[19:10:07] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:57566|VoidTD1] -> UpstreamBridge has disconnected
+[19:10:07] [Netty Worker IO Thread #1/INFO]: [VoidTD1] disconnected with: Proxy lost connection to server.
+[19:10:07] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:57566|VoidTD1] <-> DownstreamBridge <-> [lobby] has disconnected
