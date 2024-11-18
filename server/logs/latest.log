@@ -315,3 +315,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:21:25] [Server thread/INFO]: VoidTD1 issued server command: /tpa vex
 [19:21:29] [Server thread/INFO]: vexthecoder issued server command: /tpaccept
 [19:21:55] [Server thread/INFO]: Kumbadia issued server command: /tpa void
+[19:22:43] [Server thread/INFO]: vexthecoder issued server command: /gamemode sp
+[19:22:43] [Server thread/INFO]: [vexthecoder: Set own game mode to Spectator Mode]
