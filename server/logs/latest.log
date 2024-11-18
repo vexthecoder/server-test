@@ -308,3 +308,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:13:06] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
 [19:13:38] [Server thread/INFO]: vexthecoder issued server command: /gamemode s
 [19:13:38] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
+[19:16:14] [Server thread/INFO]: Kumbadia blew up
