@@ -373,3 +373,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:38:39] [Server thread/INFO]: VoidTD1 was slain by vexthecoder
 [19:38:45] [Server thread/INFO]: VoidTD1 lost connection: Disconnected
 [19:38:45] [Server thread/INFO]: VoidTD1 left the game.
+[19:39:33] [Server thread/INFO]: vexthecoder issued server command: /save-all
+[19:39:33] [Server thread/INFO]: [vexthecoder: Saved the world]
+[19:39:34] [Server thread/INFO]: vexthecoder lost connection: Disconnected
+[19:39:34] [Server thread/INFO]: vexthecoder left the game.
