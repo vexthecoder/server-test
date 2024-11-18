@@ -317,3 +317,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:21:55] [Server thread/INFO]: Kumbadia issued server command: /tpa void
 [19:22:43] [Server thread/INFO]: vexthecoder issued server command: /gamemode sp
 [19:22:43] [Server thread/INFO]: [vexthecoder: Set own game mode to Spectator Mode]
+[19:22:52] [Server thread/INFO]: vexthecoder issued server command: /gamemode s
+[19:22:52] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
