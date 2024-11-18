@@ -321,3 +321,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:22:52] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
 [19:22:58] [Server thread/INFO]: vexthecoder lost connection: Disconnected
 [19:22:58] [Server thread/INFO]: vexthecoder left the game.
+[19:27:04] [Thread-14/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
+[19:27:04] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:56738] logged in with entity id 5775 at ([world_the_end]0.5084899157652459, 62.0, 0.4790952037651428)
