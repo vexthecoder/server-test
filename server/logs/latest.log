@@ -280,3 +280,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [13:53:33] [Server thread/INFO]: [vexthecoder: Given [Sign] * 32 to vexthecoder]
 [13:55:13] [Server thread/INFO]: vexthecoder issued server command: /home castle
 [13:55:37] [Server thread/INFO]: vexthecoder issued server command: /home castle
+[14:02:28] [Server thread/INFO]: vexthecoder issued server command: /save-all
+[14:02:28] [Server thread/INFO]: [vexthecoder: Saved the world]
+[14:02:30] [Server thread/INFO]: vexthecoder lost connection: Disconnected
+[14:02:30] [Server thread/INFO]: vexthecoder left the game.
