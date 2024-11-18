@@ -285,3 +285,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:08:02] [Server thread/INFO]: Kumbadia[/[0:0:0:0:0:0:0:1]:33554] logged in with entity id 2579 at ([world]-4118.655829056699, 69.0, -1715.2061735335576)
 [19:08:50] [Server thread/INFO]: Kumbadia issued server command: /tpa void
 [19:08:51] [Server thread/INFO]: VoidTD1 issued server command: /tpaccept
+[19:10:07] [Server thread/INFO]: VoidTD1 lost connection: Disconnected
+[19:10:07] [Server thread/INFO]: VoidTD1 left the game.
