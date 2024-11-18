@@ -271,3 +271,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:56:24] [Server thread/INFO]: vexthecoder issued server command: /home castle
 [18:56:43] [Server thread/INFO]: VoidTD1 issued server command: /tpa vex
 [18:56:44] [Server thread/INFO]: vexthecoder issued server command: /tpaccept
+[18:59:15] [Server thread/INFO]: vexthecoder issued server command: /home end
