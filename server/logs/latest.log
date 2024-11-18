@@ -265,3 +265,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [13:47:56] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:47012] logged in with entity id 781 at ([world]-4124.533064683274, 69.0, -1713.1780718366242)
 [13:48:31] [Server thread/INFO]: vexthecoder issued server command: /home village
 [13:50:05] [Server thread/INFO]: vexthecoder issued server command: //home castle
+[13:50:12] [Server thread/INFO]: vexthecoder issued server command: /home castle
