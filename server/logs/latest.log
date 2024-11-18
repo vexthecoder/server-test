@@ -296,3 +296,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:11:52] [Thread-13/INFO]: UUID of player VoidTD1 is a1202c6c-cc39-3ce9-8cee-01fb82309203
 [19:11:53] [Server thread/INFO]: VoidTD1[/[0:0:0:0:0:0:0:1]:55542] logged in with entity id 2946 at ([world]-412.77189941495243, 39.0, 1041.6386986464527)
 [19:11:54] [Server thread/INFO]: vexthecoder issued server command: /home end
+[19:12:11] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder ender_eye 1
+[19:12:11] [Server thread/INFO]: [vexthecoder: Given [Eye of Ender] * 1 to vexthecoder]
