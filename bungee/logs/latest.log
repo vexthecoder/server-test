@@ -70,3 +70,5 @@
 [19:10:07] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:57566|VoidTD1] -> UpstreamBridge has disconnected
 [19:10:07] [Netty Worker IO Thread #1/INFO]: [VoidTD1] disconnected with: Proxy lost connection to server.
 [19:10:07] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:57566|VoidTD1] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:10:12] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47942]: Connected via websocket
+[19:10:12] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47942]: Origin header is null
