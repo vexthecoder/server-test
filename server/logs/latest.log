@@ -299,3 +299,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:12:11] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder ender_eye 1
 [19:12:11] [Server thread/INFO]: [vexthecoder: Given [Eye of Ender] * 1 to vexthecoder]
 [19:12:31] [Server thread/INFO]: vexthecoder has just earned the achievement [The End?]
+[19:12:40] [Server thread/INFO]: vexthecoder issued server command: /creative
