@@ -291,3 +291,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:10:12] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:40560] logged in with entity id 2879 at ([world]-413.7303968058831, 42.0, 1037.4980085250713)
 [19:10:17] [Server thread/INFO]: Kumbadia lost connection: Disconnected
 [19:10:17] [Server thread/INFO]: Kumbadia left the game.
+[19:11:22] [Thread-12/INFO]: UUID of player Kumbadia is c98fef90-09c8-3851-9029-391bbe93c043
