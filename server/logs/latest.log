@@ -334,3 +334,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:28:49] [Server thread/INFO]: [vexthecoder: The entity UUID provided is in an invalid format]
 [19:28:52] [Server thread/INFO]: Kumbadia lost connection: Disconnected
 [19:28:52] [Server thread/INFO]: Kumbadia left the game.
+[19:28:55] [Server thread/INFO]: vexthecoder issued server command: /? execute
