@@ -337,3 +337,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:28:55] [Server thread/INFO]: vexthecoder issued server command: /? execute
 [19:30:33] [Server thread/INFO]: VoidTD1 hit the ground too hard
 [19:30:39] [Server thread/INFO]: VoidTD1 issued server command: /tpa vex
+[19:30:49] [Server thread/INFO]: vexthecoder issued server command: /tpaccept
