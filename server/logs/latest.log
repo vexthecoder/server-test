@@ -345,3 +345,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:33:53] [Server thread/INFO]: vexthecoder issued server command: /tpdeny
 [19:34:05] [Server thread/INFO]: vexthecoder issued server command: /gamemode c
 [19:34:05] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
+[19:34:11] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder command_block 1
+[19:34:11] [Server thread/INFO]: [vexthecoder: Given [Command Block] * 1 to vexthecoder]
