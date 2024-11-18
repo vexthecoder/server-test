@@ -342,3 +342,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:33:08] [Server thread/INFO]: [vexthecoder: Given [Hard Hoe] * 1 to vexthecoder]
 [19:33:40] [Server thread/INFO]: VoidTD1 was slain by vexthecoder
 [19:33:48] [Server thread/INFO]: VoidTD1 issued server command: /tpa vex
+[19:33:53] [Server thread/INFO]: vexthecoder issued server command: /tpdeny
