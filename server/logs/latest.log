@@ -325,3 +325,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:27:04] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:56738] logged in with entity id 5775 at ([world_the_end]0.5084899157652459, 62.0, 0.4790952037651428)
 [19:27:08] [Server thread/INFO]: vexthecoder issued server command: /? tp
 [19:27:16] [Server thread/INFO]: vexthecoder issued server command: /? tp
+[19:27:38] [Server thread/INFO]: vexthecoder issued server command: /tp @a world
+[19:27:38] [Server thread/INFO]: [vexthecoder: The entity UUID provided is in an invalid format]
+[19:27:38] [Server thread/INFO]: [vexthecoder: The entity UUID provided is in an invalid format]
+[19:27:38] [Server thread/INFO]: [vexthecoder: The entity UUID provided is in an invalid format]
