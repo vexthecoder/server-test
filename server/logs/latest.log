@@ -361,3 +361,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:36:12] [Server thread/INFO]: vexthecoder issued server command: /difficulty 2
 [19:36:12] [Server thread/INFO]: [vexthecoder: Set game difficulty to Normal]
 [19:36:45] [Server thread/INFO]: vexthecoder issued server command: /tpa void
+[19:36:58] [Server thread/INFO]: vexthecoder issued server command: /gamemode s
+[19:36:58] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
