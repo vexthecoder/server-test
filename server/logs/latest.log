@@ -274,3 +274,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:59:15] [Server thread/INFO]: vexthecoder issued server command: /home end
 [18:59:30] [Server thread/INFO]: vexthecoder issued server command: /enchant vexthecoder mending 1
 [18:59:30] [Server thread/INFO]: [vexthecoder: 'mending' is not a valid number]
+[18:59:39] [Server thread/INFO]: VoidTD1 issued server command: /tpa vex
