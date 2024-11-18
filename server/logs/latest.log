@@ -329,3 +329,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:27:38] [Server thread/INFO]: [vexthecoder: The entity UUID provided is in an invalid format]
 [19:27:38] [Server thread/INFO]: [vexthecoder: The entity UUID provided is in an invalid format]
 [19:27:38] [Server thread/INFO]: [vexthecoder: The entity UUID provided is in an invalid format]
+[19:28:29] [Server thread/INFO]: VoidTD1 issued server command: /give @p
