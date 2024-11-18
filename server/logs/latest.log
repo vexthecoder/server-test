@@ -335,3 +335,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:28:52] [Server thread/INFO]: Kumbadia lost connection: Disconnected
 [19:28:52] [Server thread/INFO]: Kumbadia left the game.
 [19:28:55] [Server thread/INFO]: vexthecoder issued server command: /? execute
+[19:30:33] [Server thread/INFO]: VoidTD1 hit the ground too hard
