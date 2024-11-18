@@ -371,3 +371,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:37:55] [Server thread/INFO]: vexthecoder issued server command: /tpa void
 [19:37:59] [Server thread/INFO]: VoidTD1 issued server command: /tpaccept
 [19:38:39] [Server thread/INFO]: VoidTD1 was slain by vexthecoder
+[19:38:45] [Server thread/INFO]: VoidTD1 lost connection: Disconnected
+[19:38:45] [Server thread/INFO]: VoidTD1 left the game.
