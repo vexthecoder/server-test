@@ -280,3 +280,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:05:05] [Server thread/INFO]: vexthecoder lost connection: Disconnected
 [19:05:05] [Server thread/INFO]: vexthecoder left the game.
 [19:05:25] [Server thread/INFO]: VoidTD1 issued server command: /sethome d
+[19:05:41] [Server thread/WARN]: VoidTD1 moved wrongly!
