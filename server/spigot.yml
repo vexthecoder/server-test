@@ -67,7 +67,6 @@ stats:
 world-settings:
   default:
     verbose: true
-    mob-spawn-range: 4
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -88,6 +87,7 @@ world-settings:
       replace-blocks:
       - 1
       - 5
+    mob-spawn-range: 4
     nerf-spawner-mobs: false
     growth:
       cactus-modifier: 100
@@ -128,11 +128,11 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
+    arrow-despawn-rate: 1200
     item-despawn-rate: 6000
     merge-radius:
       item: 2.5
       exp: 3.0
-    arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
     view-distance: 4
