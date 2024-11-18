@@ -266,3 +266,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:55:51] [Server thread/INFO]: VoidTD1[/[0:0:0:0:0:0:0:1]:41006] logged in with entity id 798 at ([world_nether]-625.6294593631314, 60.0, -449.69999998807907)
 [18:56:01] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 
+[18:56:04] [Thread-8/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
