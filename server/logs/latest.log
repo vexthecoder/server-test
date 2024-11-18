@@ -278,3 +278,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [13:53:22] [Server thread/INFO]: [vexthecoder: Given [Sign] * 32 to vexthecoder]
 [13:53:33] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder sign 32 2
 [13:53:33] [Server thread/INFO]: [vexthecoder: Given [Sign] * 32 to vexthecoder]
+[13:55:13] [Server thread/INFO]: vexthecoder issued server command: /home castle
