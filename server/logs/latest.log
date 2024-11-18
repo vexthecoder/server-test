@@ -273,3 +273,6 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [13:51:54] [Server thread/INFO]: vexthecoder issued server command: /delhome castle
 [13:51:59] [Server thread/INFO]: vexthecoder issued server command: /sethome castle
 [13:52:57] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder sign 5 32
+[13:52:57] [Server thread/INFO]: [vexthecoder: Given [Sign] * 5 to vexthecoder]
+[13:53:22] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder sign 32 5
+[13:53:22] [Server thread/INFO]: [vexthecoder: Given [Sign] * 32 to vexthecoder]
