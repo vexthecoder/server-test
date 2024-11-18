@@ -310,3 +310,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:13:38] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
 [19:16:14] [Server thread/INFO]: Kumbadia blew up
 [19:16:48] [Server thread/INFO]: Kumbadia issued server command: /tpa void
+[19:17:58] [Server thread/INFO]: Kumbadia issued server command: /tpa void
