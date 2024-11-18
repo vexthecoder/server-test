@@ -99,3 +99,6 @@
 [19:28:52] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:49784|Kumbadia] -> UpstreamBridge has disconnected
 [19:28:52] [Netty Worker IO Thread #2/INFO]: [Kumbadia] disconnected with: Proxy lost connection to server.
 [19:28:52] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:49784|Kumbadia] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:38:45] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:32858|VoidTD1] -> UpstreamBridge has disconnected
+[19:38:45] [Netty Worker IO Thread #0/INFO]: [VoidTD1] disconnected with: Proxy lost connection to server.
+[19:38:45] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:32858|VoidTD1] <-> DownstreamBridge <-> [lobby] has disconnected
