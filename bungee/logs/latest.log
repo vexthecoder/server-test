@@ -59,3 +59,6 @@
 [13:51:02] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/server-test/bungee/server-icon.png
 [13:51:03] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37374]: Connected via websocket
 [13:51:03] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37374]: Origin header is null
+[13:51:03] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37374]: Logged in as 'vexthecoder'
+[13:51:03] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:37374|vexthecoder] -> UpstreamBridge has connected
+[13:51:03] [Netty Worker IO Thread #2/INFO]: [vexthecoder|/[0:0:0:0:0:0:0:1%0]:37374] <-> ServerConnector [lobby] has connected
