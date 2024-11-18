@@ -360,3 +360,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:34:37] [Server thread/INFO]: [vexthecoder: Given [Lever] * 1 to vexthecoder]
 [19:36:12] [Server thread/INFO]: vexthecoder issued server command: /difficulty 2
 [19:36:12] [Server thread/INFO]: [vexthecoder: Set game difficulty to Normal]
+[19:36:45] [Server thread/INFO]: vexthecoder issued server command: /tpa void
