@@ -282,3 +282,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:05:25] [Server thread/INFO]: VoidTD1 issued server command: /sethome d
 [19:05:41] [Server thread/WARN]: VoidTD1 moved wrongly!
 [19:08:02] [Thread-10/INFO]: UUID of player Kumbadia is c98fef90-09c8-3851-9029-391bbe93c043
+[19:08:02] [Server thread/INFO]: Kumbadia[/[0:0:0:0:0:0:0:1]:33554] logged in with entity id 2579 at ([world]-4118.655829056699, 69.0, -1715.2061735335576)
