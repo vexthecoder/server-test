@@ -340,3 +340,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:30:49] [Server thread/INFO]: vexthecoder issued server command: /tpaccept
 [19:33:08] [Server thread/INFO]: vexthecoder issued server command: /give @p minecraft:wooden_hoe 1 1 {display:{Name:"Hard Hoe"},StoredEnchantments:[{id:16,lvl:1000}]}
 [19:33:08] [Server thread/INFO]: [vexthecoder: Given [Hard Hoe] * 1 to vexthecoder]
+[19:33:40] [Server thread/INFO]: VoidTD1 was slain by vexthecoder
