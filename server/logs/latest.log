@@ -312,3 +312,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:16:48] [Server thread/INFO]: Kumbadia issued server command: /tpa void
 [19:17:58] [Server thread/INFO]: Kumbadia issued server command: /tpa void
 [19:21:16] [Server thread/INFO]: VoidTD1 fell from a high place
+[19:21:25] [Server thread/INFO]: VoidTD1 issued server command: /tpa vex
