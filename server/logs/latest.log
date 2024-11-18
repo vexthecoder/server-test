@@ -324,3 +324,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:27:04] [Thread-14/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
 [19:27:04] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:56738] logged in with entity id 5775 at ([world_the_end]0.5084899157652459, 62.0, 0.4790952037651428)
 [19:27:08] [Server thread/INFO]: vexthecoder issued server command: /? tp
+[19:27:16] [Server thread/INFO]: vexthecoder issued server command: /? tp
