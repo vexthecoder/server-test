@@ -277,3 +277,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:59:39] [Server thread/INFO]: VoidTD1 issued server command: /tpa vex
 [18:59:42] [Server thread/INFO]: vexthecoder issued server command: /? enchant
 [18:59:50] [Server thread/INFO]: vexthecoder issued server command: /tpaccept
+[19:05:05] [Server thread/INFO]: vexthecoder lost connection: Disconnected
+[19:05:05] [Server thread/INFO]: vexthecoder left the game.
