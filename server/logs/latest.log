@@ -295,3 +295,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:11:22] [Server thread/INFO]: Kumbadia[/[0:0:0:0:0:0:0:1]:50114] logged in with entity id 2910 at ([world]-413.30000001192093, 41.0, 1038.4874946820094)
 [19:11:52] [Thread-13/INFO]: UUID of player VoidTD1 is a1202c6c-cc39-3ce9-8cee-01fb82309203
 [19:11:53] [Server thread/INFO]: VoidTD1[/[0:0:0:0:0:0:0:1]:55542] logged in with entity id 2946 at ([world]-412.77189941495243, 39.0, 1041.6386986464527)
+[19:11:54] [Server thread/INFO]: vexthecoder issued server command: /home end
