@@ -282,3 +282,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 
 [18:28:19] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[18:34:04] [Server thread/INFO]: Stopping the server
+[18:34:04] [Server thread/INFO]: Stopping server
+[18:34:04] [Server thread/INFO]: [PvPToggle] Disabling PvPToggle v1.5.8
+[18:34:04] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
