@@ -2,3 +2,4 @@
 [18:22:35] [main/INFO]: Using zlib based native compressor.
 [18:22:35] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.21-R0.1-SNAPSHOT:de8345a:579
 [18:22:35] [main/WARN]: Waterfall has reached end of life and is no longer maintained. We recommend you transition to Velocity (https://papermc.io/software/velocity). For more information, see the announcement (https://forums.papermc.io/threads/1088/).
+[18:22:35] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
