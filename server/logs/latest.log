@@ -283,3 +283,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 
 [17:41:34] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[17:42:37] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
