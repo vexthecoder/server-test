@@ -221,3 +221,13 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:34:16] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
 [18:34:16] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
 [18:34:16] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[18:34:16] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[18:34:16] [Server thread/INFO]: Water over lava flow speed: 5
+[18:34:16] [Server thread/INFO]: Fix TNT cannons: false
+[18:34:16] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[18:34:16] [Server thread/INFO]: Keep spawn chunk loaded: true
+[18:34:16] [Server thread/INFO]: World async lighting: false
+[18:34:16] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[18:34:16] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[18:34:16] [Server thread/INFO]: Preparing start region for level 0 (Seed: 795042868806082513)
+[18:34:17] [Server thread/INFO]: Preparing spawn area: 60%
