@@ -262,3 +262,6 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:28:17] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
 [18:28:17] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
 [18:28:17] [Server thread/INFO]: [dynmap] Enabled
+[18:28:17] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
+[18:28:17] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[18:28:17] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
