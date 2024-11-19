@@ -278,3 +278,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:56:23] [Server thread/INFO]: VoidTD1 issued server command: /home b
 [18:56:23] [Server thread/INFO]: vexthecoder issued server command: /lockdown
 [18:56:45] [Server thread/INFO]: VoidTD1 was slain by Spider
+[18:56:50] [Server thread/INFO]: VoidTD1 issued server command: /home b
