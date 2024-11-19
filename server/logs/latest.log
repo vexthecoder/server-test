@@ -306,3 +306,6 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:26:15] [Server thread/INFO]: [@: Set VoidTD1's game mode to Adventure Mode]
 [19:26:29] [Server thread/INFO]: [@: Set VoidTD1's game mode to Adventure Mode]
 [19:26:46] [Server thread/INFO]: vexthecoder issued server command: /gamemode sp
+[19:26:46] [Server thread/INFO]: [vexthecoder: Set own game mode to Spectator Mode]
+[19:27:20] [Server thread/INFO]: vexthecoder issued server command: /gamemode s void
+[19:27:20] [Server thread/INFO]: [vexthecoder: That player cannot be found]
