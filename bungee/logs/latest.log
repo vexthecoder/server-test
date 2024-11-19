@@ -83,3 +83,6 @@
 [17:02:39] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59096]: Logged in as 'reaper123089'
 [17:02:39] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59096|reaper123089] -> UpstreamBridge has connected
 [17:02:39] [Netty Worker IO Thread #2/INFO]: [reaper123089|/[0:0:0:0:0:0:0:1%0]:59096] <-> ServerConnector [lobby] has connected
+[17:02:39] [Netty Worker IO Thread #2/INFO]: [reaper123089] disconnected with: Kicked whilst connecting to lobby: [LoginSecurity] This account is registered under the name Reaper123089, please log in as such.
+[17:02:39] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59096|reaper123089] -> UpstreamBridge has disconnected
+[17:02:39] [Netty Worker IO Thread #2/INFO]: [reaper123089|/[0:0:0:0:0:0:0:1%0]:59096] <-> ServerConnector [lobby] has disconnected
