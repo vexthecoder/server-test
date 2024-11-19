@@ -242,3 +242,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 
 [18:28:13] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 6.4[m
 
+[18:28:13] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[18:28:13] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-SNAPSHOT-948
+[18:28:13] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[18:28:13] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
