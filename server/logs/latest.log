@@ -320,3 +320,21 @@ Caused by: java.util.zip.ZipException: zip END header not found
 
 [17:27:26] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 
+[17:28:12] [Server thread/INFO]: Stopping the server
+[17:28:12] [Server thread/INFO]: Stopping server
+[17:28:12] [Server thread/INFO]: [PvPToggle] Disabling PvPToggle v1.5.8
+[17:28:12] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[17:28:12] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[17:28:12] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[17:28:12] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[17:28:12] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[17:28:12] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[17:28:12] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[17:28:12] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[17:28:12] [Server thread/INFO]: Saving players
+[17:28:12] [Server thread/INFO]: Saving worlds
+[17:28:12] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[17:28:13] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[17:28:13] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
