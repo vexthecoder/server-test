@@ -278,3 +278,6 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [16:52:23] [Server thread/INFO]: vexthecoder issued server command: /gamemode c
 [16:52:23] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
 [16:56:41] [Server thread/INFO]: vexthecoder issued server command: /save-all
+[16:56:41] [Server thread/INFO]: [vexthecoder: Saved the world]
+[16:56:43] [Server thread/INFO]: vexthecoder lost connection: Disconnected
+[16:56:43] [Server thread/INFO]: vexthecoder left the game.
