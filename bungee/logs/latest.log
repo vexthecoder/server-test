@@ -91,3 +91,6 @@
 [17:03:01] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41616]: Logged in as 'Reaper123089'
 [17:03:01] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:41616|Reaper123089] -> UpstreamBridge has connected
 [17:03:01] [Netty Worker IO Thread #0/INFO]: [Reaper123089|/[0:0:0:0:0:0:0:1%0]:41616] <-> ServerConnector [lobby] has connected
+[17:10:00] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:41616|Reaper123089] -> UpstreamBridge has disconnected
+[17:10:00] [Netty Worker IO Thread #0/INFO]: [Reaper123089] disconnected with: Proxy lost connection to server.
+[17:10:00] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:41616|Reaper123089] <-> DownstreamBridge <-> [lobby] has disconnected
