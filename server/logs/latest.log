@@ -233,3 +233,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:28:10] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
 [18:28:10] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
 [18:28:10] [Server thread/INFO]: Preparing start region for level 0 (Seed: 795042868806082513)
+[18:28:11] [Server thread/INFO]: Preparing spawn area: 66%
