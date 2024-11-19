@@ -296,3 +296,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:24:44] [Server thread/INFO]: [@: '@p' is not a valid number]
 [19:24:58] [Server thread/INFO]: vexthecoder issued server command: /? gamemode
 [19:25:11] [Server thread/INFO]: [@: Set vexthecoder's game mode to Adventure Mode]
+[19:25:19] [Server thread/INFO]: vexthecoder issued server command: /gamemode s
+[19:25:19] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
