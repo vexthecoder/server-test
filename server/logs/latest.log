@@ -244,3 +244,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 
 [17:41:26] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
 [17:41:26] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-SNAPSHOT-948
+[17:41:26] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[17:41:26] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
