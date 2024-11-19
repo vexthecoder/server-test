@@ -263,3 +263,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 
 [16:44:37] [Thread-8/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
 [16:44:37] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:42882] logged in with entity id 919 at ([world]-4128.466463107899, 73.0, -1714.300000011921)
+[16:44:48] [Server thread/INFO]: vexthecoder issued server command: /weather clear
+[16:44:48] [Server thread/INFO]: [vexthecoder: Changing to clear weather]
