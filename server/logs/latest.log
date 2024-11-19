@@ -290,3 +290,6 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [17:02:39] [Thread-12/INFO]: Disconnecting com.mojang.authlib.GameProfile@204d1e39[id=831dcf27-451e-3d80-ad4b-10f6a9f762cb,name=reaper123089,properties={textures=[com.mojang.authlib.properties.Property@3e4f3d05], isEaglerPlayer=[com.mojang.authlib.properties.Property@106ee04b]},legacy=false] (/[0:0:0:0:0:0:0:1]:46378): [LoginSecurity] This account is registered under the name Reaper123089, please log in as such.
 [17:02:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@204d1e39[id=831dcf27-451e-3d80-ad4b-10f6a9f762cb,name=reaper123089,properties={textures=[com.mojang.authlib.properties.Property@3e4f3d05], isEaglerPlayer=[com.mojang.authlib.properties.Property@106ee04b]},legacy=false] (/[0:0:0:0:0:0:0:1]:46378) lost connection: [LoginSecurity] This account is registered under the name Reaper123089, please log in as such.
 [17:03:01] [Thread-13/INFO]: UUID of player Reaper123089 is 855ded96-c33f-32d8-bf77-075251656812
+[17:03:01] [Server thread/INFO]: Reaper123089[/[0:0:0:0:0:0:0:1]:50646] logged in with entity id 2985 at ([world]73.32989909181461, 64.0, -119.03615029422654)
+[17:03:08] [Server thread/INFO]: vexthecoder issued server command: /gamemode s
+[17:03:08] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
