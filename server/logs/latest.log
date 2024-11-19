@@ -294,3 +294,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:24:13] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder command_block 1
 [19:24:13] [Server thread/INFO]: [vexthecoder: Given [Command Block] * 1 to vexthecoder]
 [19:24:44] [Server thread/INFO]: [@: '@p' is not a valid number]
+[19:24:58] [Server thread/INFO]: vexthecoder issued server command: /? gamemode
