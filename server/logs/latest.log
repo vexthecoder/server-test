@@ -277,3 +277,9 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [17:41:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
 [17:41:33] [Server thread/INFO]: Done (10.340s)! For help, type "help" or "?"
 [17:41:33] [Server thread/INFO]: Timings Reset
+[17:41:34] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[21m[SimpleTpa] There is a new update available.[m
+
+[17:41:34] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] There is a new update available:[m
+
+[17:41:34] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
+
