@@ -80,3 +80,6 @@
 [17:02:05] [Netty Worker IO Thread #1/INFO]: [reaper123089|/[0:0:0:0:0:0:0:1%0]:45242] <-> ServerConnector [lobby] has disconnected
 [17:02:39] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59096]: Connected via websocket
 [17:02:39] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59096]: Origin header is null
+[17:02:39] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:59096]: Logged in as 'reaper123089'
+[17:02:39] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:59096|reaper123089] -> UpstreamBridge has connected
+[17:02:39] [Netty Worker IO Thread #2/INFO]: [reaper123089|/[0:0:0:0:0:0:0:1%0]:59096] <-> ServerConnector [lobby] has connected
