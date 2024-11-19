@@ -283,3 +283,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:09:42] [Server thread/INFO]: VoidTD1 hit the ground too hard
 [19:09:54] [Server thread/INFO]: VoidTD1 issued server command: /back
 [19:11:16] [Server thread/INFO]: vexthecoder issued server command: /thru
+[19:18:47] [Server thread/INFO]: vexthecoder issued server command: /gamemode sp
+[19:18:47] [Server thread/INFO]: [vexthecoder: Set own game mode to Spectator Mode]
