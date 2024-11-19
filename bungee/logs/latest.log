@@ -94,3 +94,6 @@
 [17:10:00] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:41616|Reaper123089] -> UpstreamBridge has disconnected
 [17:10:00] [Netty Worker IO Thread #0/INFO]: [Reaper123089] disconnected with: Proxy lost connection to server.
 [17:10:00] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:41616|Reaper123089] <-> DownstreamBridge <-> [lobby] has disconnected
+[17:11:17] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:47110|vexthecoder] -> UpstreamBridge has disconnected
+[17:11:17] [Netty Worker IO Thread #2/INFO]: [vexthecoder] disconnected with: Proxy lost connection to server.
+[17:11:17] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:47110|vexthecoder] <-> DownstreamBridge <-> [lobby] has disconnected
