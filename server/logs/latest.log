@@ -251,3 +251,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [17:41:31] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
 [17:41:31] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
 [17:41:31] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[17:41:31] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[17:41:31] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
