@@ -247,3 +247,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:28:13] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
 [18:28:13] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
 [18:28:13] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[18:28:17] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
