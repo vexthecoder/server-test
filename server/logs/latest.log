@@ -300,3 +300,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:25:19] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
 [19:25:23] [Server thread/INFO]: vexthecoder issued server command: /gamemode c
 [19:25:23] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
+[19:25:31] [Server thread/INFO]: vexthecoder issued server command: /gamemode s
+[19:25:31] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
