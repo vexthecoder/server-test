@@ -259,3 +259,6 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:28:17] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
 [18:28:17] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
 [18:28:17] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[18:28:17] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[18:28:17] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[18:28:17] [Server thread/INFO]: [dynmap] Enabled
