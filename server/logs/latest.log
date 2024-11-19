@@ -309,3 +309,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:26:46] [Server thread/INFO]: [vexthecoder: Set own game mode to Spectator Mode]
 [19:27:20] [Server thread/INFO]: vexthecoder issued server command: /gamemode s void
 [19:27:20] [Server thread/INFO]: [vexthecoder: That player cannot be found]
+[19:27:29] [Server thread/INFO]: vexthecoder issued server command: /gamemode survival voidtd1
+[19:27:29] [Server thread/INFO]: [vexthecoder: Set VoidTD1's game mode to Survival Mode]
