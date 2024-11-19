@@ -300,3 +300,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:34:05] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
 
 [18:34:05] [Server thread/INFO]: Saving players
+[18:34:05] [Server thread/INFO]: Saving worlds
+[18:34:05] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
