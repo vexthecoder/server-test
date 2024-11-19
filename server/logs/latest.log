@@ -299,3 +299,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [17:03:27] [Server thread/INFO]: vexthecoder issued server command: /home base
 [17:03:54] [Server thread/INFO]: vexthecoder issued server command: /home castle
 [17:04:12] [Server thread/INFO]: vexthecoder issued server command: /tpahere rea
+[17:04:20] [Server thread/INFO]: Reaper123089 issued server command: /tpaccept
