@@ -248,3 +248,6 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [17:41:26] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
 [17:41:28] [Server thread/INFO]: [dynmap] Extracted files upgraded
 [17:41:28] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[17:41:31] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[17:41:31] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[17:41:31] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
