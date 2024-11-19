@@ -327,3 +327,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:28:53] [Server thread/INFO]: [vexthecoder: Set VoidTD1's game mode to Survival Mode]
 [19:28:54] [Server thread/INFO]: VoidTD1 issued server command: /home b
 [19:29:18] [Server thread/INFO]: [@: Set vexthecoder's game mode to Adventure Mode]
+[19:29:19] [Server thread/INFO]: [@: Set vexthecoder's game mode to Adventure Mode]
