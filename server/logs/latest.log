@@ -293,3 +293,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [17:03:01] [Server thread/INFO]: Reaper123089[/[0:0:0:0:0:0:0:1]:50646] logged in with entity id 2985 at ([world]73.32989909181461, 64.0, -119.03615029422654)
 [17:03:08] [Server thread/INFO]: vexthecoder issued server command: /gamemode s
 [17:03:08] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
+[17:03:11] [Server thread/INFO]: vexthecoder issued server command: /home castle
