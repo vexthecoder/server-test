@@ -304,3 +304,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [17:07:20] [Server thread/INFO]: vexthecoder issued server command: /home castle
 [17:07:42] [Server thread/INFO]: vexthecoder issued server command: /gamemode c
 [17:07:42] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
+[17:07:54] [Server thread/INFO]: vexthecoder issued server command: /time set day
+[17:07:54] [Server thread/INFO]: [vexthecoder: Set the time to 1000]
