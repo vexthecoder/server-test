@@ -270,3 +270,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [17:41:32] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
 [17:41:32] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
 [17:41:32] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[17:41:32] [Server thread/INFO]: [LoginSecurity] Registering commands...
