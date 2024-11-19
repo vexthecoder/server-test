@@ -218,3 +218,18 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [17:41:23] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
 [17:41:23] [Server thread/INFO]: Chunks to Grow per Tick: 650
 [17:41:23] [Server thread/INFO]: Clear tick list: false
+[17:41:23] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:41:23] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[17:41:23] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[17:41:23] [Server thread/INFO]: Player blocking damage multiplier set to 0.5
+[17:41:23] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[17:41:23] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[17:41:23] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 32 Hard: 128
+[17:41:23] [Server thread/INFO]: Water over lava flow speed: 5
+[17:41:23] [Server thread/INFO]: Fix TNT cannons: false
+[17:41:23] [Server thread/INFO]: Allow undead horse types to be leashed: false
+[17:41:23] [Server thread/INFO]: Keep spawn chunk loaded: true
+[17:41:23] [Server thread/INFO]: World async lighting: false
+[17:41:23] [Server thread/INFO]: WorldServer TickNextTick cap set at 10000
+[17:41:23] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[17:41:23] [Server thread/INFO]: Preparing start region for level 0 (Seed: 795042868806082513)
