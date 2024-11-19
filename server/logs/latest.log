@@ -8,3 +8,27 @@
 
 [17:41:21] [Server thread/INFO]: Using 4 threads for Netty based IO
 [17:41:21] [Server thread/INFO]: Data value allowed items: 
+[17:41:21] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
+
+[17:41:21] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+
+[17:41:21] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
+
+[17:41:21] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+
+[17:41:21] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+[17:41:21] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
+
+[17:41:21] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
+
+[17:41:21] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
+
+[17:41:21] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+
+[17:41:21] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[17:41:21] [Server thread/INFO]: Generating keypair
+[17:41:22] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[17:41:22] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[17:41:22] [Server thread/INFO]: Using default channel type
