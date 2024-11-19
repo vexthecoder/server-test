@@ -235,3 +235,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:28:10] [Server thread/INFO]: Preparing start region for level 0 (Seed: 795042868806082513)
 [18:28:11] [Server thread/INFO]: Preparing spawn area: 66%
 [18:28:11] [Server thread/INFO]: Preparing start region for level 1 (Seed: 795042868806082513)
+[18:28:12] [Server thread/INFO]: Preparing spawn area: 58%
