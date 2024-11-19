@@ -266,3 +266,7 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [17:41:32] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.2
 [17:41:32] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
 [17:41:32] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:41:32] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[17:41:32] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[17:41:32] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[17:41:32] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
