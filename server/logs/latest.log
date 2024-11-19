@@ -252,3 +252,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:34:20] [Server thread/INFO]: [PvPToggle] Enabling PvPToggle v1.5.8
 [18:34:20] [Server thread/ERROR]: [PvPToggle] Plugin PvPToggle v1.5.8 has failed to register events for class com.github.aasmus.pvptoggle.listeners.PvP because org/bukkit/event/entity/AreaEffectCloudApplyEvent does not exist.
 [18:34:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:34:20] [Server thread/INFO]: Done (4.214s)! For help, type "help" or "?"
+[18:34:20] [Server thread/INFO]: Timings Reset
