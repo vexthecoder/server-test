@@ -2,3 +2,30 @@
 [18:28:08] [Server thread/INFO]: Loading properties
 [18:28:08] [Server thread/INFO]: Default game type: SURVIVAL
 [18:28:09] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[18:28:09] [Server thread/INFO]: Debug logging is disabled
+[18:28:09] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[18:28:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[18:28:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:28:09] [Server thread/INFO]: Data value allowed items: 
+[18:28:09] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
+
+[18:28:09] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+
+[18:28:09] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
+
+[18:28:09] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+
+[18:28:09] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+[18:28:09] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
+
+[18:28:09] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
+
+[18:28:09] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
+
+[18:28:09] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+
+[18:28:09] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[18:28:09] [Server thread/INFO]: Generating keypair
