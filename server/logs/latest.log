@@ -272,3 +272,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:56:03] [Thread-10/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
 [18:56:03] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:39496] logged in with entity id 2059 at ([world]-4099.940348938556, 50.0, -1716.8580827438652)
 [18:56:12] [Server thread/INFO]: VoidTD1 issued server command: /home b
+[18:56:15] [Async Chat Thread - #0/INFO]: <vexthecoder> skibidi toilet![m
+
