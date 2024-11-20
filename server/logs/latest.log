@@ -312,3 +312,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:03:27] [Server thread/INFO]: vexthecoder issued server command: //replace stone_brick_stairs glass
 [20:03:34] [Server thread/INFO]: vexthecoder issued server command: //undo
 [20:03:36] [Server thread/INFO]: vexthecoder issued server command: //undo
+[20:03:55] [Server thread/INFO]: vexthecoder issued server command: //stack 500 south
