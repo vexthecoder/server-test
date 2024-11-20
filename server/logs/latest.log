@@ -486,3 +486,230 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.OperationQueue.resume(OperationQueue.java:85)
 [20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.OperationQueue.resume(OperationQueue.java:85)
 [20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.Operations.completeBlindly(Operations.java:74)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.flushQueue(EditSession.java:691)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extension.platform.CommandManager.handleCommand(CommandManager.java:258)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.invoke.LambdaForm$DMH/0x00007a48d4001000.invokeSpecial(LambdaForm$DMH)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.invoke.LambdaForm$MH/0x00007a48d4434000.invoke(LambdaForm$MH)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.invoke.Invokers$Holder.invokeExact_MT(Invokers$Holder)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/jdk.internal.reflect.DirectMethodHandleAccessor.invokeImpl(DirectMethodHandleAccessor.java:154)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.reflect.Method.invoke(Method.java:580)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.MethodEventHandler.dispatch(MethodEventHandler.java:58)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:187)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:173)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:242)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:54)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:146)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchCommand(CraftServer.java:666)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.PlayerConnection.handleCommand(PlayerConnection.java:1189)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1001)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:45)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:1)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.runWith(Thread.java:1596)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.run(Thread.java:1583)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: DestroyJavaVM
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 30 | Suspended: false | Native: false | State: RUNNABLE
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Thread-3
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 32 | Suspended: false | Native: false | State: RUNNABLE
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ProcessImpl.forkAndExec(Native Method)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Runtime.exec(Runtime.java:681)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Runtime.exec(Runtime.java:530)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.internal.TerminalLineSettings.exec(TerminalLineSettings.java:196)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.internal.TerminalLineSettings.exec(TerminalLineSettings.java:186)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.internal.TerminalLineSettings.stty(TerminalLineSettings.java:181)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.internal.TerminalLineSettings.get(TerminalLineSettings.java:74)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.internal.TerminalLineSettings.getProperty(TerminalLineSettings.java:95)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.UnixTerminal.getWidth(UnixTerminal.java:76)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.drawBuffer(ConsoleReader.java:879)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.drawBuffer(ConsoleReader.java:898)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.drawLine(ConsoleReader.java:608)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_8_R3.util.TerminalConsoleWriterThread.run(TerminalConsoleWriterThread.java:38)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.runWith(Thread.java:1596)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.run(Thread.java:1583)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Server console handler
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 31 | Suspended: false | Native: false | State: RUNNABLE
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ProcessImpl.forkAndExec(Native Method)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ProcessImpl.start(ProcessImpl.java:225)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Runtime.exec(Runtime.java:681)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Runtime.exec(Runtime.java:530)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.internal.TerminalLineSettings.exec(TerminalLineSettings.java:196)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.internal.TerminalLineSettings.exec(TerminalLineSettings.java:186)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.internal.TerminalLineSettings.stty(TerminalLineSettings.java:181)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.internal.TerminalLineSettings.get(TerminalLineSettings.java:74)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.internal.TerminalLineSettings.getProperty(TerminalLineSettings.java:95)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.UnixTerminal.getWidth(UnixTerminal.java:76)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.drawBuffer(ConsoleReader.java:879)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.drawBuffer(ConsoleReader.java:898)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.putString(ConsoleReader.java:838)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2662)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.DedicatedServer$2.run(DedicatedServer.java:79)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: PaperSpigot Watchdog Thread
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 33 | Suspended: false | Native: false | State: RUNNABLE
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.management@21.0.4/sun.management.ThreadImpl.dumpThreads0(Native Method)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.management@21.0.4/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:518)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.management@21.0.4/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:506)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.spigotmc.WatchdogThread.run(WatchdogThread.java:76)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Spigot Metrics Thread
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 34 | Suspended: false | Native: false | State: TIMED_WAITING
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Object.wait0(Native Method)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Object.wait(Object.java:366)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.TimerThread.mainLoop(Timer.java:563)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.TimerThread.run(Timer.java:516)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #0
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 35 | Suspended: false | Native: true | State: RUNNABLE
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		Locked on:java.base@21.0.4/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		Locked on:java.base@21.0.4/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/sun.nio.ch.EPoll.wait(Native Method)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/sun.nio.ch.EPollSelectorImpl.doSelect(EPollSelectorImpl.java:121)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:142)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:622)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:310)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.runWith(Thread.java:1596)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.run(Thread.java:1583)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Timer-0
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 40 | Suspended: false | Native: false | State: TIMED_WAITING
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Object.wait0(Native Method)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Object.wait(Object.java:366)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.TimerThread.mainLoop(Timer.java:563)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.TimerThread.run(Timer.java:516)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Timer-1
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: false | State: TIMED_WAITING
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Object.wait0(Native Method)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Object.wait(Object.java:366)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.TimerThread.mainLoop(Timer.java:563)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.TimerThread.run(Timer.java:516)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: bStats-Metrics
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 42 | Suspended: false | Native: false | State: TIMED_WAITING
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/jdk.internal.misc.Unsafe.park(Native Method)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1758)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.runWith(Thread.java:1596)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.run(Thread.java:1583)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: File IO Thread
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 46 | Suspended: false | Native: false | State: TIMED_WAITING
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.sleep0(Native Method)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.sleep(Thread.java:509)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.FileIOThread.c(FileIOThread.java:52)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.FileIOThread.run(FileIOThread.java:28)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.runWith(Thread.java:1596)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.run(Thread.java:1583)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #1
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: true | State: RUNNABLE
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		Locked on:java.base@21.0.4/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		Locked on:java.base@21.0.4/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/sun.nio.ch.EPoll.wait(Native Method)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/sun.nio.ch.EPollSelectorImpl.doSelect(EPollSelectorImpl.java:121)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:142)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:622)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:310)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.runWith(Thread.java:1596)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.run(Thread.java:1583)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Chunk I/O Executor Thread-1
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 48 | Suspended: false | Native: false | State: WAITING
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/jdk.internal.misc.Unsafe.park(Native Method)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3780)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3725)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1707)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.runWith(Thread.java:1596)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.run(Thread.java:1583)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Chunk I/O Executor Thread-2
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 49 | Suspended: false | Native: false | State: WAITING
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/jdk.internal.misc.Unsafe.park(Native Method)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3780)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3725)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1707)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.runWith(Thread.java:1596)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.run(Thread.java:1583)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #2
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 37 | Suspended: false | Native: true | State: RUNNABLE
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		Locked on:java.base@21.0.4/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		Locked on:java.base@21.0.4/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/sun.nio.ch.EPoll.wait(Native Method)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/sun.nio.ch.EPollSelectorImpl.doSelect(EPollSelectorImpl.java:121)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:142)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		app//io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:622)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		app//io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:310)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		app//io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.runWith(Thread.java:1596)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.run(Thread.java:1583)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: process reaper
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 68 | Suspended: false | Native: false | State: TIMED_WAITING
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/jdk.internal.misc.Unsafe.park(Native Method)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:410)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.LinkedTransferQueue$DualNode.await(LinkedTransferQueue.java:452)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.SynchronousQueue$Transferer.xferLifo(SynchronousQueue.java:194)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.SynchronousQueue.xfer(SynchronousQueue.java:233)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:336)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1069)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
