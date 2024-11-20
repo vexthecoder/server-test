@@ -390,3 +390,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:25:31] [Server thread/INFO]: vexthecoder issued server command: //move 5 east
 [19:25:37] [Server thread/INFO]: vexthecoder issued server command: //undo
 [19:26:05] [Server thread/INFO]: vexthecoder issued server command: //stack 5 soutch 5
+[19:26:11] [Server thread/INFO]: vexthecoder issued server command: //stack 5 south
