@@ -329,3 +329,6 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [15:36:50] [Thread-9/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
 [15:36:50] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:38162] logged in with entity id 2802 at ([world]-4119.271674822991, 50.0, -1723.300000011921)
 [15:39:02] [Server thread/INFO]: vexthecoder issued server command: /gamemode sp
+[15:39:02] [Server thread/INFO]: [vexthecoder: Set own game mode to Spectator Mode]
+[15:39:10] [Server thread/INFO]: vexthecoder issued server command: /gamemode s
+[15:39:10] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
