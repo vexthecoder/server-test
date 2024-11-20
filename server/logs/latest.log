@@ -313,3 +313,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:10:15] [Server thread/INFO]: [vexthecoder: Given [Minecart] * 64 to vexthecoder]
 [19:10:24] [Server thread/INFO]: vexthecoder issued server command: /give vexthecoder minecart 2
 [19:10:24] [Server thread/INFO]: [vexthecoder: Given [Minecart] * 2 to vexthecoder]
+[19:11:04] [Server thread/INFO]: vexthecoder issued server command: //wand
