@@ -264,3 +264,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [18:52:46] [Thread-7/INFO]: UUID of player vexthecoder is 8be02add-a095-337c-940d-258c8bf59662
 [18:52:46] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:38252] logged in with entity id 961 at ([world]-4109.121829316253, 50.0, -1716.620224851899)
 [18:52:57] [Server thread/INFO]: vexthecoder issued server command: /gamemode c
+[18:52:57] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
