@@ -313,3 +313,5 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:17:03] [Server thread/INFO]: vexthecoder issued server command: //undo
 [20:17:43] [Server thread/INFO]: vexthecoder issued server command: //set air
 [20:17:49] [Server thread/INFO]: vexthecoder issued server command: //set water
+[20:19:07] [Server thread/INFO]: vexthecoder issued server command: /gamemode sp
+[20:19:07] [Server thread/INFO]: [vexthecoder: Set own game mode to Spectator Mode]
