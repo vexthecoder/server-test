@@ -383,3 +383,106 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.run(Thread.java:1583)
 [20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
 [20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Entire Thread Dump:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Reference Handler
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 9 | Suspended: false | Native: false | State: RUNNABLE
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ref.Reference.processPendingReferences(Reference.java:246)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:208)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Finalizer
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 10 | Suspended: false | Native: false | State: WAITING
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Object.wait0(Native Method)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Object.wait(Object.java:366)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Object.wait(Object.java:339)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ref.NativeReferenceQueue.await(NativeReferenceQueue.java:48)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:158)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ref.NativeReferenceQueue.remove(NativeReferenceQueue.java:89)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:173)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Signal Dispatcher
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 11 | Suspended: false | Native: false | State: RUNNABLE
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Notification Thread
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 16 | Suspended: false | Native: false | State: RUNNABLE
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Common-Cleaner
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 17 | Suspended: false | Native: false | State: TIMED_WAITING
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/jdk.internal.misc.Unsafe.park(Native Method)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1847)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.runWith(Thread.java:1596)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.run(Thread.java:1583)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:186)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Snooper Timer
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 24 | Suspended: false | Native: false | State: TIMED_WAITING
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Object.wait0(Native Method)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Object.wait(Object.java:366)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.TimerThread.mainLoop(Timer.java:563)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.TimerThread.run(Timer.java:516)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: NonBlockingInputStreamThread
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: WAITING
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Object.wait0(Native Method)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Object.wait(Object.java:366)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.run(NonBlockingInputStream.java:278)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.runWith(Thread.java:1596)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.run(Thread.java:1583)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Server Infinisleeper
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 29 | Suspended: false | Native: false | State: TIMED_WAITING
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.sleep0(Native Method)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.sleep(Thread.java:509)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.DedicatedServer$1.run(DedicatedServer.java:54)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Server thread
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 28 | Suspended: false | Native: false | State: RUNNABLE
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.TreeMap.put(TreeMap.java:849)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.TreeMap.put(TreeMap.java:569)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.TreeSet.add(TreeSet.java:259)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_8_R3.util.HashTreeSet.add(HashTreeSet.java:75)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.WorldServer.a(WorldServer.java:570)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.WorldServer.a(WorldServer.java:538)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.BlockFlowing.onPlace(BlockFlowing.java:270)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.Chunk.a(Chunk.java:643)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.World.setTypeAndData(World.java:400)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.BlockStationary.f(BlockStationary.java:28)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.BlockStationary.doPhysics(BlockStationary.java:20)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.World.d(World.java:583)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.World.applyPhysics(World.java:536)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.World.update(World.java:496)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.World.notifyAndUpdatePhysics(World.java:450)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.World.setTypeAndData(World.java:434)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_8_R3.block.CraftBlock.setTypeIdAndData(CraftBlock.java:137)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3.setBlock(Spigot_v1_8_R3.java:237)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.BukkitWorld.setBlock(BukkitWorld.java:413)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.world.FastModeExtent.setBlock(FastModeExtent.java:91)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.AbstractDelegateExtent.setBlock(AbstractDelegateExtent.java:78)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.world.SurvivalModeExtent.setBlock(SurvivalModeExtent.java:88)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.AbstractDelegateExtent.setBlock(AbstractDelegateExtent.java:78)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.world.BlockQuirkExtent.setBlock(BlockQuirkExtent.java:64)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.AbstractDelegateExtent.setBlock(AbstractDelegateExtent.java:78)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.world.ChunkLoadingExtent.setBlock(ChunkLoadingExtent.java:66)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.AbstractDelegateExtent.setBlock(AbstractDelegateExtent.java:78)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.AbstractDelegateExtent.setBlock(AbstractDelegateExtent.java:78)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.validation.DataValidatorExtent.setBlock(DataValidatorExtent.java:67)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.AbstractDelegateExtent.setBlock(AbstractDelegateExtent.java:78)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.inventory.BlockBagExtent.setBlock(BlockBagExtent.java:111)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.BlockMapEntryPlacer.resume(BlockMapEntryPlacer.java:58)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.OperationQueue.resume(OperationQueue.java:85)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.OperationQueue.resume(OperationQueue.java:85)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.Operations.completeBlindly(Operations.java:74)
