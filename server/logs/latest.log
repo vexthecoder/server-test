@@ -276,3 +276,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [17:08:40] [Server thread/INFO]: vexthecoder issued server command: /gamemode s
 [17:08:40] [Server thread/INFO]: [vexthecoder: Set own game mode to Survival Mode]
 [17:08:59] [Server thread/INFO]: vexthecoder issued server command: /home castle
+[17:09:06] [Server thread/INFO]: vexthecoder issued server command: /attribute
