@@ -47,3 +47,6 @@
 [16:58:36] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
 [16:58:36] [main/INFO] [EaglercraftXBungee]: Voice chat disabled, add "allow_voice: true" to your listeners to enable
 [16:58:36] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.3.1 by lax1dude
+[16:58:36] [Netty Boss IO Thread #1/INFO]: Listening on /127.0.0.1:25577
+[16:58:43] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40728]: Connected via websocket
+[16:58:43] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40728]: Origin header is null
