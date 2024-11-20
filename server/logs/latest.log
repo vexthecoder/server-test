@@ -388,3 +388,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:25:12] [Server thread/INFO]: vexthecoder issued server command: //copy
 [19:25:21] [Server thread/INFO]: vexthecoder issued server command: //paste -a
 [19:25:31] [Server thread/INFO]: vexthecoder issued server command: //move 5 east
+[19:25:37] [Server thread/INFO]: vexthecoder issued server command: //undo
