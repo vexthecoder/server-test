@@ -104,3 +104,5 @@
 [20:06:13] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for vexthecoder AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
 [20:06:13] [Netty Worker IO Thread #0/INFO]: [vexthecoder] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
 [20:06:13] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:42380|vexthecoder] -> UpstreamBridge has disconnected
+[20:06:32] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47964]: Connected via websocket
+[20:06:32] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47964]: Origin header is null
