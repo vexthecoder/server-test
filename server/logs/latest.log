@@ -273,3 +273,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:52:54] [Server thread/INFO]: [vexthecoder: Saved the world]
 [19:53:01] [Server thread/INFO]: vexthecoder issued server command: //copy
 [19:53:57] [Server thread/INFO]: vexthecoder issued server command: /lac
+[19:54:06] [Server thread/INFO]: vexthecoder issued server command: /lac import loginsecurity
