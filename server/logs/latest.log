@@ -343,3 +343,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:13:42] [Server thread/INFO]: vexthecoder issued server command: //set 27
 [19:14:02] [Server thread/INFO]: vexthecoder issued server command: //set 76
 [19:16:21] [Server thread/INFO]: vexthecoder issued server command: //set air
+[19:16:39] [Server thread/INFO]: vexthecoder issued server command: //set 76,0,0,0,0
