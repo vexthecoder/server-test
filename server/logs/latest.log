@@ -381,3 +381,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:22:55] [Server thread/INFO]: vexthecoder issued server command: //replace air torch:1,0,0,0,0
 [19:22:55] [Server thread/INFO]: vexthecoder issued server command: //replace air torch:1,0,0,0,0
 [19:22:55] [Server thread/INFO]: vexthecoder issued server command: //replace air torch:1,0,0,0,0
+[19:22:56] [Server thread/INFO]: vexthecoder issued server command: //replace air torch:1,0,0,0,0
