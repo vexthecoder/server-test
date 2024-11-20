@@ -271,3 +271,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:48:39] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:45414] logged in with entity id 1102 at ([world]-4115.705266171552, 48.01751784868539, -1584.6155419180652)
 [19:52:54] [Server thread/INFO]: vexthecoder issued server command: /save-all
 [19:52:54] [Server thread/INFO]: [vexthecoder: Saved the world]
+[19:53:01] [Server thread/INFO]: vexthecoder issued server command: //copy
