@@ -284,3 +284,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:11:04] [Server thread/INFO]: vexthecoder issued server command: //replace stone air
 [20:11:24] [Server thread/INFO]: vexthecoder issued server command: //replace stone_brick_stairs glass
 [20:11:33] [Server thread/INFO]: vexthecoder issued server command: //replace 5:5 glass
+[20:11:40] [Server thread/INFO]: vexthecoder issued server command: //replace 5 glass
