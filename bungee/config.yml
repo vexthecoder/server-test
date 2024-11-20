@@ -22,3 +22,30 @@ servers:
     address: localhost:25565
     restricted: false
 listeners:
+- query_port: 25577
+  motd: skibidi server
+  tab_list: GLOBAL_PING
+  query_enabled: false
+  proxy_protocol: false
+  forced_hosts:
+    pvp.md-5.net: pvp
+  ping_passthrough: false
+  priorities:
+  - lobby
+  bind_local_address: false
+  host: 127.0.0.1:25577
+  max_players: 1
+  tab_size: 60
+  force_default_server: true
+prevent_proxy_connections: false
+remote_ping_timeout: 5000
+ip_forward: true
+network_compression_threshold: 256
+reject_transfers: false
+disabled_commands:
+- disabledcommandhere
+connection_throttle: 4000
+stats: 614623bd-e602-4a2e-b09d-0acb68d88c3e
+connection_throttle_limit: 3
+groups: {}
+log_pings: true
