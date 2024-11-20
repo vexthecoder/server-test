@@ -305,3 +305,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:02:23] [Server thread/INFO]: vexthecoder issued server command: //replace stone glass
 [20:02:33] [Server thread/INFO]: vexthecoder issued server command: //replace stone air
 [20:02:39] [Server thread/INFO]: vexthecoder issued server command: //undo
+[20:02:42] [Server thread/INFO]: vexthecoder issued server command: //replace stone air
