@@ -268,3 +268,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:08:02] [Server thread/INFO]: vexthecoder issued server command: /gamemode c
 [20:08:02] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
 [20:08:40] [Server thread/INFO]: vexthecoder issued server command: //stack 500 south
+[20:08:58] [Server thread/INFO]: vexthecoder issued server command: //copy
