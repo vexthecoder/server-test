@@ -264,3 +264,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:06:42] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:51638] logged in with entity id 968 at ([world]-4114.593236751959, 54.16952730518161, -1409.4470401371127)
 [20:06:59] [Server thread/INFO]: vexthecoder issued server command: //replace stone air
 [20:07:45] [Server thread/INFO]: vexthecoder issued server command: /gamemode sp
+[20:07:45] [Server thread/INFO]: [vexthecoder: Set own game mode to Spectator Mode]
