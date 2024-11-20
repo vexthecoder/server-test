@@ -285,3 +285,6 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [17:09:32] [Server thread/INFO]: vexthecoder issued server command: /? minecraft 5
 [17:09:37] [Server thread/INFO]: vexthecoder issued server command: /? replaceitem
 [17:11:15] [Server thread/INFO]: vexthecoder issued server command: /save-all
+[17:11:15] [Server thread/INFO]: [vexthecoder: Saved the world]
+[17:11:16] [Server thread/INFO]: vexthecoder lost connection: Disconnected
+[17:11:16] [Server thread/INFO]: vexthecoder left the game.
