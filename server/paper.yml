@@ -59,13 +59,13 @@ world-settings:
     despawn-ranges:
       soft: 32
       hard: 128
-    player-blocking-damage-multiplier: 0.5
-    remove-invalid-mob-spawner-tile-entities: true
-    falling-block-height-nerf: 0
     remove-unloaded:
       enderpearls: true
       tnt-entities: true
       falling-blocks: true
+    player-blocking-damage-multiplier: 0.5
+    remove-invalid-mob-spawner-tile-entities: true
+    falling-block-height-nerf: 0
     game-mechanics:
       boats-drop-boats: false
       disable-player-crits: false
