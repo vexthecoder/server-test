@@ -296,3 +296,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:59:35] [Server thread/INFO]: [vexthecoder: Set own game mode to Spectator Mode]
 [20:00:45] [Server thread/INFO]: vexthecoder issued server command: /gamemode c
 [20:00:45] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
+[20:01:23] [Server thread/INFO]: vexthecoder issued server command: //gamemode sp
