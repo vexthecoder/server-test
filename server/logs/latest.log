@@ -386,3 +386,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:24:02] [Server thread/INFO]: vexthecoder issued server command: //set sea_lantern
 [19:24:32] [Server thread/INFO]: vexthecoder issued server command: //wand
 [19:25:12] [Server thread/INFO]: vexthecoder issued server command: //copy
+[19:25:21] [Server thread/INFO]: vexthecoder issued server command: //paste -a
