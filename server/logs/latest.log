@@ -279,3 +279,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:54:25] [Craft Scheduler Thread - 2/INFO]: [LoginSecurity] Download complete!
 [19:55:38] [Server thread/INFO]: vexthecoder issued server command: //stack 5 east
 [19:55:44] [Server thread/INFO]: vexthecoder issued server command: //undo
+[19:55:48] [Server thread/INFO]: vexthecoder issued server command: //stack 5 south
