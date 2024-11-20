@@ -97,3 +97,5 @@
 [20:04:55] [Netty Worker IO Thread #2/INFO]: [vexthecoder] disconnected with: Kicked whilst connecting to lobby: [LoginSecurity] This player is already online!
 [20:04:55] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:60796|vexthecoder] -> UpstreamBridge has disconnected
 [20:04:55] [Netty Worker IO Thread #2/INFO]: [vexthecoder|/[0:0:0:0:0:0:0:1%0]:60796] <-> ServerConnector [lobby] has disconnected
+[20:06:12] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42380]: Connected via websocket
+[20:06:12] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:42380]: Origin header is null
