@@ -10,3 +10,23 @@
 [20:06:33] [Server thread/INFO]: Data value allowed items: 
 [20:06:33] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
 
+[20:06:33] [Server thread/WARN]: 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+
+[20:06:33] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.stackableBuckets(PaperSpigotConfig.java:192)
+
+[20:06:33] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+
+[20:06:33] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+[20:06:33] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.readConfig(PaperSpigotConfig.java:84)
+
+[20:06:33] [Server thread/WARN]: 	at org.github.paperspigot.PaperSpigotConfig.init(PaperSpigotConfig.java:62)
+
+[20:06:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:181)
+
+[20:06:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+
+[20:06:33] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[20:06:33] [Server thread/INFO]: Generating keypair
+[20:06:34] [Server thread/INFO]: Starting Minecraft server on localhost:25565
