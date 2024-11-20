@@ -319,3 +319,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:12:19] [Server thread/INFO]: vexthecoder issued server command: //set 27:8
 [19:12:28] [Server thread/INFO]: vexthecoder issued server command: //set 27:0
 [19:12:30] [Server thread/INFO]: vexthecoder issued server command: //set 27:1
+[19:12:33] [Server thread/INFO]: vexthecoder issued server command: //set 27:2
