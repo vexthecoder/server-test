@@ -62,3 +62,6 @@
 [19:48:39] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:40270]: Logged in as 'vexthecoder'
 [19:48:39] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:40270|vexthecoder] -> UpstreamBridge has connected
 [19:48:39] [Netty Worker IO Thread #0/INFO]: [vexthecoder|/[0:0:0:0:0:0:0:1%0]:40270] <-> ServerConnector [lobby] has connected
+[20:04:08] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:40270|vexthecoder] -> UpstreamBridge has disconnected
+[20:04:08] [Netty Worker IO Thread #0/INFO]: [vexthecoder] disconnected with: Proxy lost connection to server.
+[20:04:08] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:40270|vexthecoder] <-> DownstreamBridge <-> [lobby] has disconnected
