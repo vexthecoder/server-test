@@ -2763,3 +2763,16 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:05:20] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.WatchdogThread.run(WatchdogThread.java:85)
 
 [20:05:20] [PaperSpigot Watchdog Thread/INFO]: vexthecoder left the game.
+[20:05:24] [PaperSpigot Watchdog Thread/INFO]: Stopping server
+[20:05:24] [PaperSpigot Watchdog Thread/INFO]: [PvPToggle] Disabling PvPToggle v1.5.8
+[20:05:24] [PaperSpigot Watchdog Thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[20:05:24] [PaperSpigot Watchdog Thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[20:05:24] [PaperSpigot Watchdog Thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[20:05:24] [PaperSpigot Watchdog Thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[20:05:24] [PaperSpigot Watchdog Thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[20:05:24] [PaperSpigot Watchdog Thread/INFO]: [SimpleTpa] Disabling SimpleTpa v6.4
+[20:05:24] [PaperSpigot Watchdog Thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[20:05:24] [PaperSpigot Watchdog Thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 6.4[m
+
+[20:05:24] [PaperSpigot Watchdog Thread/INFO]: Saving players
