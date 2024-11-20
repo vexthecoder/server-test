@@ -295,3 +295,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:12:49] [Server thread/INFO]: vexthecoder issued server command: //replace water air
 [20:12:50] [Server thread/INFO]: vexthecoder issued server command: //replace water air
 [20:12:51] [Server thread/INFO]: vexthecoder issued server command: /
+[20:12:56] [Server thread/INFO]: vexthecoder issued server command: //replace water air
