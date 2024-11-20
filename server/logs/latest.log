@@ -291,3 +291,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:57:23] [Server thread/INFO]: vexthecoder issued server command: //stack 100 south
 [19:57:28] [Server thread/INFO]: vexthecoder issued server command: //stack 1000 south
 [19:59:18] [Server thread/INFO]: vexthecoder issued server command: //undo
+[19:59:26] [Server thread/INFO]: vexthecoder issued server command: //stack 500 south
