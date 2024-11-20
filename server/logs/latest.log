@@ -299,3 +299,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:01:23] [Server thread/INFO]: vexthecoder issued server command: //gamemode sp
 [20:01:30] [Async Chat Thread - #0/INFO]: <vexthecoder> gamemode sp[m
 
+[20:02:01] [Server thread/INFO]: vexthecoder issued server command: //replace stone air
