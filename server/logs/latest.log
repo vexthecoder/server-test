@@ -285,3 +285,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:00:46] [Server thread/INFO]: vexthecoder issued server command: //set 4
 [19:00:49] [Server thread/INFO]: vexthecoder issued server command: //set 5
 [19:00:52] [Server thread/INFO]: vexthecoder issued server command: //set 55
+[19:00:56] [Server thread/INFO]: vexthecoder issued server command: //undo
