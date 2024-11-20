@@ -2,3 +2,11 @@
 [20:06:32] [Server thread/INFO]: Loading properties
 [20:06:32] [Server thread/INFO]: Default game type: SURVIVAL
 [20:06:33] [Server thread/INFO]: This server is running CraftBukkit version git-PaperSpigot-445 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[20:06:33] [Server thread/INFO]: Debug logging is disabled
+[20:06:33] [Server thread/INFO]: Spigot Timings: true - Verbose: true - Interval: 5m - Length: 60m
+[20:06:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+
+[20:06:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:06:33] [Server thread/INFO]: Data value allowed items: 
+[20:06:33] [Server thread/WARN]: java.lang.NoSuchFieldException: modifiers
+
