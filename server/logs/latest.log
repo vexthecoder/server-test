@@ -283,3 +283,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [17:09:24] [Server thread/INFO]: vexthecoder issued server command: /? minecraft 3
 [17:09:28] [Server thread/INFO]: vexthecoder issued server command: /? minecraft 4
 [17:09:32] [Server thread/INFO]: vexthecoder issued server command: /? minecraft 5
+[17:09:37] [Server thread/INFO]: vexthecoder issued server command: /? replaceitem
