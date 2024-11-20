@@ -276,3 +276,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:09:32] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
 [20:10:30] [Server thread/INFO]: vexthecoder issued server command: //replace stone air
 [20:10:40] [Server thread/INFO]: vexthecoder issued server command: //undo
+[20:10:42] [Server thread/INFO]: vexthecoder issued server command: //gamemode sp
