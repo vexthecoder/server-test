@@ -713,3 +713,28 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:336)
 [20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1069)
 [20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.runWith(Thread.java:1596)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.run(Thread.java:1583)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:186)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #3
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 38 | Suspended: false | Native: true | State: RUNNABLE
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		Locked on:java.base@21.0.4/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		Locked on:java.base@21.0.4/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/sun.nio.ch.EPoll.wait(Native Method)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/sun.nio.ch.EPollSelectorImpl.doSelect(EPollSelectorImpl.java:121)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:142)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		app//io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:622)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		app//io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:310)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		app//io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.runWith(Thread.java:1596)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.run(Thread.java:1583)
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:07] [PaperSpigot Watchdog Thread/INFO]: Attempting to restart with ./start.sh
+
+[20:05:07] [PaperSpigot Watchdog Thread/INFO]: vexthecoder lost connection: Server is restarting
+[20:05:07] [PaperSpigot Watchdog Thread/ERROR]: stopTiming called async for anti-xray - obfuscate
