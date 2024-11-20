@@ -70,3 +70,6 @@
 [20:04:15] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37674]: Logged in as 'vexthecoder'
 [20:04:15] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:37674|vexthecoder] -> UpstreamBridge has connected
 [20:04:15] [Netty Worker IO Thread #2/INFO]: [vexthecoder|/[0:0:0:0:0:0:0:1%0]:37674] <-> ServerConnector [lobby] has connected
+[20:04:16] [Netty Worker IO Thread #2/INFO]: [vexthecoder] disconnected with: Kicked whilst connecting to lobby: [LoginSecurity] This player is already online!
+[20:04:16] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:37674|vexthecoder] -> UpstreamBridge has disconnected
+[20:04:16] [Netty Worker IO Thread #2/INFO]: [vexthecoder|/[0:0:0:0:0:0:0:1%0]:37674] <-> ServerConnector [lobby] has disconnected

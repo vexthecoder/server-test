@@ -313,3 +313,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:03:34] [Server thread/INFO]: vexthecoder issued server command: //undo
 [20:03:36] [Server thread/INFO]: vexthecoder issued server command: //undo
 [20:03:55] [Server thread/INFO]: vexthecoder issued server command: //stack 500 south
+[20:04:16] [Thread-10/INFO]: Disconnecting com.mojang.authlib.GameProfile@21d455fe[id=8be02add-a095-337c-940d-258c8bf59662,name=vexthecoder,properties={textures=[com.mojang.authlib.properties.Property@40a589a2], isEaglerPlayer=[com.mojang.authlib.properties.Property@449a156e]},legacy=false] (/[0:0:0:0:0:0:0:1]:43572): [LoginSecurity] This player is already online!
