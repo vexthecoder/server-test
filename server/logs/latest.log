@@ -310,3 +310,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:16:30] [Server thread/INFO]: vexthecoder issued server command: //replace air
 [20:16:55] [Server thread/INFO]: vexthecoder issued server command: //undo
 [20:16:58] [Server thread/INFO]: vexthecoder issued server command: //undo
+[20:17:03] [Server thread/INFO]: vexthecoder issued server command: //undo
