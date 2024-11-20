@@ -304,3 +304,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:12:59] [Server thread/INFO]: vexthecoder issued server command: //replace water air
 [20:13:19] [Server thread/INFO]: vexthecoder issued server command: //replace 5:5 glass
 [20:13:45] [Server thread/INFO]: vexthecoder issued server command: //replace 5:5 glass
+[20:14:21] [Server thread/INFO]: vexthecoder issued server command: /thru
