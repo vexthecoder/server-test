@@ -2248,3 +2248,272 @@ Caused by: java.util.zip.ZipException: zip END header not found
 
 [20:05:16] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap$PlayerChunk.b(PlayerChunkMap.java:425)
 
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap.removePlayer(PlayerChunkMap.java:206)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerList.disconnect(PlayerList.java:377)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:875)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.disconnect(PlayerConnection.java:186)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:58)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:40)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.WatchdogThread.run(WatchdogThread.java:85)
+
+[20:05:18] [PaperSpigot Watchdog Thread/ERROR]: stopTiming called async for anti-xray - obfuscate
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: java.lang.Throwable
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at co.aikar.timings.TimingHandler.stopTiming(TimingHandler.java:114)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.AntiXray.obfuscateSync(AntiXray.java:103)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayOutMapChunk.<init>(PacketPlayOutMapChunk.java:22)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap$PlayerChunk.b(PlayerChunkMap.java:425)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap.removePlayer(PlayerChunkMap.java:206)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerList.disconnect(PlayerList.java:377)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:875)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.disconnect(PlayerConnection.java:186)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:58)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:40)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.WatchdogThread.run(WatchdogThread.java:85)
+
+[20:05:18] [PaperSpigot Watchdog Thread/ERROR]: stopTiming called async for anti-xray - obfuscate
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: java.lang.Throwable
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at co.aikar.timings.TimingHandler.stopTiming(TimingHandler.java:114)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.AntiXray.obfuscateSync(AntiXray.java:103)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayOutMapChunk.<init>(PacketPlayOutMapChunk.java:22)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap$PlayerChunk.b(PlayerChunkMap.java:425)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap.removePlayer(PlayerChunkMap.java:206)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerList.disconnect(PlayerList.java:377)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:875)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.disconnect(PlayerConnection.java:186)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:58)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:40)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.WatchdogThread.run(WatchdogThread.java:85)
+
+[20:05:18] [PaperSpigot Watchdog Thread/ERROR]: stopTiming called async for anti-xray - obfuscate
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: java.lang.Throwable
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at co.aikar.timings.TimingHandler.stopTiming(TimingHandler.java:114)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.AntiXray.obfuscateSync(AntiXray.java:103)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayOutMapChunk.<init>(PacketPlayOutMapChunk.java:22)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap$PlayerChunk.b(PlayerChunkMap.java:425)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap.removePlayer(PlayerChunkMap.java:206)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerList.disconnect(PlayerList.java:377)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:875)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.disconnect(PlayerConnection.java:186)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:58)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:40)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.WatchdogThread.run(WatchdogThread.java:85)
+
+[20:05:18] [PaperSpigot Watchdog Thread/ERROR]: stopTiming called async for anti-xray - obfuscate
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: java.lang.Throwable
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at co.aikar.timings.TimingHandler.stopTiming(TimingHandler.java:114)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.AntiXray.obfuscateSync(AntiXray.java:103)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayOutMapChunk.<init>(PacketPlayOutMapChunk.java:22)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap$PlayerChunk.b(PlayerChunkMap.java:425)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap.removePlayer(PlayerChunkMap.java:206)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerList.disconnect(PlayerList.java:377)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:875)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.disconnect(PlayerConnection.java:186)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:58)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:40)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.WatchdogThread.run(WatchdogThread.java:85)
+
+[20:05:18] [PaperSpigot Watchdog Thread/ERROR]: stopTiming called async for anti-xray - obfuscate
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: java.lang.Throwable
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at co.aikar.timings.TimingHandler.stopTiming(TimingHandler.java:114)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.AntiXray.obfuscateSync(AntiXray.java:103)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayOutMapChunk.<init>(PacketPlayOutMapChunk.java:22)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap$PlayerChunk.b(PlayerChunkMap.java:425)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap.removePlayer(PlayerChunkMap.java:206)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerList.disconnect(PlayerList.java:377)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:875)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.disconnect(PlayerConnection.java:186)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:58)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:40)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.WatchdogThread.run(WatchdogThread.java:85)
+
+[20:05:18] [PaperSpigot Watchdog Thread/ERROR]: stopTiming called async for anti-xray - obfuscate
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: java.lang.Throwable
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at co.aikar.timings.TimingHandler.stopTiming(TimingHandler.java:114)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.AntiXray.obfuscateSync(AntiXray.java:103)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayOutMapChunk.<init>(PacketPlayOutMapChunk.java:22)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap$PlayerChunk.b(PlayerChunkMap.java:425)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap.removePlayer(PlayerChunkMap.java:206)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerList.disconnect(PlayerList.java:377)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:875)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.disconnect(PlayerConnection.java:186)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:58)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:40)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.WatchdogThread.run(WatchdogThread.java:85)
+
+[20:05:18] [PaperSpigot Watchdog Thread/ERROR]: stopTiming called async for anti-xray - obfuscate
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: java.lang.Throwable
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at co.aikar.timings.TimingHandler.stopTiming(TimingHandler.java:114)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.AntiXray.obfuscateSync(AntiXray.java:103)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayOutMapChunk.<init>(PacketPlayOutMapChunk.java:22)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap$PlayerChunk.b(PlayerChunkMap.java:425)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap.removePlayer(PlayerChunkMap.java:206)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerList.disconnect(PlayerList.java:377)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:875)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.disconnect(PlayerConnection.java:186)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:58)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:40)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.WatchdogThread.run(WatchdogThread.java:85)
+
+[20:05:18] [PaperSpigot Watchdog Thread/ERROR]: stopTiming called async for anti-xray - obfuscate
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: java.lang.Throwable
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at co.aikar.timings.TimingHandler.stopTiming(TimingHandler.java:114)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.AntiXray.obfuscateSync(AntiXray.java:103)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayOutMapChunk.<init>(PacketPlayOutMapChunk.java:22)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap$PlayerChunk.b(PlayerChunkMap.java:425)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap.removePlayer(PlayerChunkMap.java:206)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerList.disconnect(PlayerList.java:377)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:875)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.disconnect(PlayerConnection.java:186)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:58)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:40)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.WatchdogThread.run(WatchdogThread.java:85)
+
+[20:05:18] [PaperSpigot Watchdog Thread/ERROR]: stopTiming called async for anti-xray - obfuscate
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: java.lang.Throwable
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at co.aikar.timings.TimingHandler.stopTiming(TimingHandler.java:114)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.AntiXray.obfuscateSync(AntiXray.java:103)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayOutMapChunk.<init>(PacketPlayOutMapChunk.java:22)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap$PlayerChunk.b(PlayerChunkMap.java:425)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap.removePlayer(PlayerChunkMap.java:206)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerList.disconnect(PlayerList.java:377)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:875)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.disconnect(PlayerConnection.java:186)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:58)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:40)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.WatchdogThread.run(WatchdogThread.java:85)
+
+[20:05:18] [PaperSpigot Watchdog Thread/ERROR]: stopTiming called async for anti-xray - obfuscate
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: java.lang.Throwable
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at co.aikar.timings.TimingHandler.stopTiming(TimingHandler.java:114)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.AntiXray.obfuscateSync(AntiXray.java:103)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PacketPlayOutMapChunk.<init>(PacketPlayOutMapChunk.java:22)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap$PlayerChunk.b(PlayerChunkMap.java:425)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerChunkMap.removePlayer(PlayerChunkMap.java:206)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerList.disconnect(PlayerList.java:377)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:875)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at net.minecraft.server.v1_8_R3.PlayerConnection.disconnect(PlayerConnection.java:186)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:58)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.RestartCommand.restart(RestartCommand.java:40)
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at org.spigotmc.WatchdogThread.run(WatchdogThread.java:85)
+
+[20:05:18] [PaperSpigot Watchdog Thread/ERROR]: stopTiming called async for anti-xray - obfuscate
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: java.lang.Throwable
+
+[20:05:18] [PaperSpigot Watchdog Thread/WARN]: 	at co.aikar.timings.TimingHandler.stopTiming(TimingHandler.java:114)
+
