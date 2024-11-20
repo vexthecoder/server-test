@@ -320,3 +320,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:19:24] [Server thread/INFO]: vexthecoder issued server command: /gamemode c
 [20:19:24] [Server thread/INFO]: [vexthecoder: Set own game mode to Creative Mode]
 [20:30:14] [Server thread/INFO]: vexthecoder issued server command: /sethome trap
+[20:30:17] [Server thread/INFO]: vexthecoder issued server command: /save-all

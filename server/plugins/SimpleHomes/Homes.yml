@@ -55,6 +55,11 @@ vexthecoder:
     X: -4118.5
     Y: 69.0
     Z: -1715.5
+  trap:
+    world: world
+    X: -4112.840512156477
+    Y: 43.0
+    Z: -996.259908126801
 Kumbadia:
   farm:
     world: world
