@@ -294,3 +294,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:03:00] [Server thread/INFO]: vexthecoder[/[0:0:0:0:0:0:0:1]:51928] logged in with entity id 2532 at ([world]-4108.008689275943, 51.20000004768371, -1586.6179800204943)
 [19:03:12] [Server thread/INFO]: vexthecoder issued server command: //set 5:5
 [19:03:28] [Server thread/INFO]: vexthecoder issued server command: //set 5:5
+[19:03:33] [Server thread/INFO]: vexthecoder issued server command: //undo
