@@ -384,3 +384,4 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [19:22:56] [Server thread/INFO]: vexthecoder issued server command: //replace air torch:1,0,0,0,0
 [19:23:06] [Server thread/INFO]: vexthecoder issued server command: //set air
 [19:24:02] [Server thread/INFO]: vexthecoder issued server command: //set sea_lantern
+[19:24:32] [Server thread/INFO]: vexthecoder issued server command: //wand
