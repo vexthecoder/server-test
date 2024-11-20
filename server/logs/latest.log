@@ -317,3 +317,69 @@ Caused by: java.util.zip.ZipException: zip END header not found
 [20:04:22] [Thread-11/INFO]: Disconnecting com.mojang.authlib.GameProfile@70ffe1c[id=8be02add-a095-337c-940d-258c8bf59662,name=vexthecoder,properties={textures=[com.mojang.authlib.properties.Property@1108885], isEaglerPlayer=[com.mojang.authlib.properties.Property@78e7c956]},legacy=false] (/[0:0:0:0:0:0:0:1]:46330): [LoginSecurity] This player is already online!
 [20:04:36] [Thread-12/INFO]: Disconnecting com.mojang.authlib.GameProfile@469c2c8[id=8be02add-a095-337c-940d-258c8bf59662,name=vexthecoder,properties={textures=[com.mojang.authlib.properties.Property@353fc1d7], isEaglerPlayer=[com.mojang.authlib.properties.Property@22028729]},legacy=false] (/[0:0:0:0:0:0:0:1]:41472): [LoginSecurity] This player is already online!
 [20:04:55] [Thread-13/INFO]: Disconnecting com.mojang.authlib.GameProfile@4eee7f19[id=8be02add-a095-337c-940d-258c8bf59662,name=vexthecoder,properties={textures=[com.mojang.authlib.properties.Property@54a6ec84], isEaglerPlayer=[com.mojang.authlib.properties.Property@5ed1229e]},legacy=false] (/[0:0:0:0:0:0:0:1]:34170): [LoginSecurity] This player is already online!
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: The server has stopped responding!
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Please report this to PaperSpigot directly!
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: PaperSpigot version: git-PaperSpigot-445 (MC: 1.8.8)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to PaperSpigot!):
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Current Thread: Server thread
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	PID: 28 | Suspended: false | Native: false | State: RUNNABLE
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 	Stack:
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.World.d(World.java:575)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.World.applyPhysics(World.java:533)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.World.update(World.java:496)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.World.notifyAndUpdatePhysics(World.java:450)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.World.setTypeAndData(World.java:434)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_8_R3.block.CraftBlock.setTypeIdAndData(CraftBlock.java:137)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3.setBlock(Spigot_v1_8_R3.java:237)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.BukkitWorld.setBlock(BukkitWorld.java:413)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.world.FastModeExtent.setBlock(FastModeExtent.java:91)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.AbstractDelegateExtent.setBlock(AbstractDelegateExtent.java:78)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.world.SurvivalModeExtent.setBlock(SurvivalModeExtent.java:88)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.AbstractDelegateExtent.setBlock(AbstractDelegateExtent.java:78)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.world.BlockQuirkExtent.setBlock(BlockQuirkExtent.java:64)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.AbstractDelegateExtent.setBlock(AbstractDelegateExtent.java:78)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.world.ChunkLoadingExtent.setBlock(ChunkLoadingExtent.java:66)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.AbstractDelegateExtent.setBlock(AbstractDelegateExtent.java:78)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.AbstractDelegateExtent.setBlock(AbstractDelegateExtent.java:78)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.validation.DataValidatorExtent.setBlock(DataValidatorExtent.java:67)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.AbstractDelegateExtent.setBlock(AbstractDelegateExtent.java:78)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.inventory.BlockBagExtent.setBlock(BlockBagExtent.java:111)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.BlockMapEntryPlacer.resume(BlockMapEntryPlacer.java:58)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.OperationQueue.resume(OperationQueue.java:85)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.OperationQueue.resume(OperationQueue.java:85)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.Operations.completeBlindly(Operations.java:74)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.flushQueue(EditSession.java:691)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extension.platform.CommandManager.handleCommand(CommandManager.java:258)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.invoke.LambdaForm$DMH/0x00007a48d4001000.invokeSpecial(LambdaForm$DMH)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.invoke.LambdaForm$MH/0x00007a48d4434000.invoke(LambdaForm$MH)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.invoke.Invokers$Holder.invokeExact_MT(Invokers$Holder)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/jdk.internal.reflect.DirectMethodHandleAccessor.invokeImpl(DirectMethodHandleAccessor.java:154)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.reflect.Method.invoke(Method.java:580)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.MethodEventHandler.dispatch(MethodEventHandler.java:58)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:187)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:173)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:242)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:54)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:146)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_8_R3.CraftServer.dispatchCommand(CraftServer.java:666)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.PlayerConnection.handleCommand(PlayerConnection.java:1189)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1001)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:45)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.PacketPlayInChat.a(PacketPlayInChat.java:1)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:774)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:378)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:713)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:616)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.runWith(Thread.java:1596)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: 		java.base@21.0.4/java.lang.Thread.run(Thread.java:1583)
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: ------------------------------
+[20:05:05] [PaperSpigot Watchdog Thread/ERROR]: Entire Thread Dump:
